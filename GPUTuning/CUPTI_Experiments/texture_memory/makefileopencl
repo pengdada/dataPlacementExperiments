@@ -1,0 +1,23 @@
+all:heat_2d.out heat_2d_globalmem.out heat.out heat_globalmem.out
+
+# this version has unverified results, TODO
+heat_2d_globalmem.out:heat_2d_globalmem.cu parameters.h
+	nvcc $< -o $@ -lglut -lGL -lGLU
+heat_2d.out:heat_2d.cu parameters.h
+	nvcc $< -o $@ -lglut -lGL -lGLU
+
+heat_globalmem.out:heat_globalmem.cu parameters.h
+	nvcc $< -o $@ -lglut -lGL -lGLU
+
+heat.out:heat.cu parameters.h
+	nvcc $< -o $@ -lglut -lGL -lGLU
+clean:
+	rm -rf *.out
+run-surface: heat.out heat_globalmem.out
+	srun -n1 ./heat_globalmem.out
+	srun -n1 ./heat_globalmem.out
+	srun -n1 ./heat_globalmem.out
+	srun -n1 ./heat.out
+	srun -n1 ./heat.out
+	srun -n1 ./heat.out
+

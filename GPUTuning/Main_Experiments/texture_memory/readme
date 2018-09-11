@@ -1,0 +1,6 @@
+heat_2d_globalmem.cu // still has correctness issue: graphics are different from the texture version
+
+
+m -f makefile-noopencl heat.out && srun -n1 ./heat.out && srun -n1 ./heat.out && srun -n1 ./heat.out
+
+m -f makefile-noopencl heat_globalmem.out && srun -n1 ./heat_globalmem.out && srun -n1 ./heat_globalmem.out && srun -n1 ./heat_globalmem.out

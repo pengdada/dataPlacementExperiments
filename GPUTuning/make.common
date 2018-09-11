@@ -1,0 +1,17 @@
+# Base/root path of the project, default assumes that GPUTuning folder is in the home directory 
+
+GPUTuning_PATH=~/
+
+
+# Include CUDA_HOME
+# Set the CUDA root installation directory
+
+CUDA_HOME=/gpfs/software/cuda/9.1/toolkit/
+
+
+# Set CUPTI Path, necessary for CUPTI experiments
+# If you set CUDA_HOME right you probably won't have to set the CUPTI_PATH sperately
+# Unless you have CUPTI installed somewhere else
+
+CUPTI_PATH=$(CUDA_HOME)/extras/CUPTI/
+

@@ -1,0 +1,48 @@
+Bar graph across GPU
+======================
+
+1. The scripts assumes foloowing directory structure,
+.
+..
+/Volta
+/Pascal
+/Kepler
+/Graph
+Data_Analyzer_to_graph_script.sh
+exec_time_data_normalizer.py
+exec_time_data_summarizer.py
+Graph_script_Mem_Impact_Across_GPUBlock_Across_GPU.R
+
+
+2. We also assume all the GPU folders (e.g. Volta) has a input file called exec-time.txt (Please refer to the example file (e.g. Volta/exec-time.txt) to see what fields the file contains)
+
+3. Make sure that you have python and R installed with the following packages
+
+python: pandas, numpy, csv, "sys, getopt", matplotlib
+R: plyr, ggplot2, grid, RColorBrewer, scales, sqldf, "optparse"
+
+3. If the above two requirements are fulfilled, just run the Data_Analyzer_to_graph_script.sh script with the absolute path to the current directory, and it will create the graphs in pdf
+
+source Data_Analyzer_to_graph_script.sh -d "pah--to--current--direcotry"
+====================================================
+
+
+Individual file in the folder#
+=================================
+
+# Data_Analyzer_to_graph_script.sh: 
+	1. Runs necessary files (exec_time_data_summarizer.py, exec_time_data_normalizer.py) to normalize and summarize the data. 
+
+	2. Then runs the R script Graph_script_Mem_Impact_Across_GPUBlock_Across_GPU.R to generate the graphs
+
+
+# exec_time_data_summarizer.py : summarizes the data from 'exec-time.txt' and writes them to 'summary.csv'
+
+# exec_time_data_normalizer.py: normalizes the data from 'summary.csv' based on default GPU configuration and saves them in 'Normalized_Exec_Data-(GPUName)).csv'
+
+# Graph_script_Mem_Impact_Across_GPUBlock_Across_GPU.R : Takes 'Normalized_Exec_Data-(GPUName)).csv' as input and generated the graphs
+
+
+=================================================== 
+To know more about the files, look inside the files, We tried our best to document it 
+===================================================

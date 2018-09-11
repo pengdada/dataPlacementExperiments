@@ -1,0 +1,2 @@
+run on surface
+srun -n1 ./ray.out

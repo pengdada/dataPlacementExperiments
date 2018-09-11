@@ -1,0 +1,20 @@
+# build the versions without using any OpenCL code
+srcFiles = heat.cu heat_globalmem.cu \
+	heat_2d.cu heat_2d_globalmem.cu
+
+exeFiles = $(srcFiles:.cu=.out)
+all: $(exeFiles)
+
+%.out:%.cu
+	nvcc -G $< -DNO_OPENCL -o $@ 
+
+clean:
+	rm -rf *.out
+run: heat.out heat_globalmem.out
+	./heat_globalmem.out
+	./heat_globalmem.out
+	./heat_globalmem.out
+	./heat.out
+	./heat.out
+	./heat.out
+

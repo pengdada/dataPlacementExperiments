@@ -1,0 +1,100 @@
+full  code package
+* git@gitlab.com:sayket/dataPlacementExperiments.git/GPUTuning
+
+
+To run the experiments:
+----------------------------
+
+- First do a git clone of the repo
+
+- Load CUDA
+
+- Go to the GPUTuning directory
+
+	cd GPUTuning
+
+- Modify 'make.common' to set up necessary paths, this is very important as scripts and makefiles derive paths based on these variables
+
+- Modify 'exports.path.common.sh' to export necessary environment variables
+
+- Make sure your CUDA installation has '-lnvidia-ml' available
+
+
+Running Main_Experiments:
+These experiments are designed to compare the impact of different memory and resource configurations 
+-------------------------
+- Go to the Main_Experiments folder
+	cd Main_Experiments
+
+- Just run the script 'GPUTuner_run_shared_texture_constant.sh'
+	source GPUTuner_run_shared_texture_constant.sh
+
+- It will run all the necessary experiments for constant, shared and texture memory example
+
+- In each directory there is a result file called 'exec-time.txt', that contains the result for all the experiments for that app
+
+- Save these 'exec-time.txt' for a certain machine for future use (e.g. creating graphs)
+
+
+Generatig Graph:
+These graphs are based on Main_Experiments
+-----------------
+- To generate graph for a specific benchmark (e.g. constant_memory, shared_memory, texture_memory), create a directory containing the results for different GPUs
+
+- The scripts associated with Graph generation assumes following directory structure,
+.
+..
+/Volta
+/Pascal
+/Kepler
+/Graph
+Data_Analyzer_to_graph_script.sh
+exec_time_data_normalizer.py
+exec_time_data_summarizer.py
+Graph_script_Mem_Impact_Across_GPUBlock_Across_GPU.R
+
+- Here each GPU named folder contains results for that GPU, So just copy 'exec-time.txt' related to a certain GPU to the respective GPU folder (e.g. copy 'exec-time.txt' for Volta to the /Volta folder)
+
+- We also assume all the GPU folders (e.g. Volta) has a input file called exec-time.txt (Please refer to the example file (e.g. Volta/exec-time.txt) to see what fields the file contains)
+
+- Make sure that you have python and R installed with the following packages
+
+python: pandas, numpy, csv, "sys, getopt", matplotlib
+R: plyr, ggplot2, grid, RColorBrewer, scales, sqldf, "optparse"
+
+- If the above requirements are fulfilled, just run the Data_Analyzer_to_graph_script.sh script with the absolute path to the current directory, and it will create the graphs in pdf
+
+	source Data_Analyzer_to_graph_script.sh -d "path--to--current--directory"
+
+
+Running CUPTI_Experiments:
+For detailed analysis on a certain configuration
+----------------------------
+- Go to the CUPTI_Experiments folder
+	cd CUPTI_Experiments
+
+- Just run the script 'CUPTI_run_shared_texture_constant.sh'
+	source CUPTI_run_shared_texture_constant.sh
+
+- It will run all the necessary experiments for constant, shared and texture memory example
+
+- In each directory there is a result file called 'output.csv', that contains the result (CUPTI metrics value) for all the experiments for that app
+
+
+Folder Sturcture
+----------------------------------------------
+- activeharmony-GPUTuner: an auto-tuner to run exhaustive search on different configurations
+
+- Main_Experiments: Folder containing scripts and codes for experiments related to different memory and resource configurations.
+
+- CUPTI_Experiments: Folder containing scripts and codes for collecting CUPTI metrics
+
+- Bechmark used in Main_Experiments and CUPTI_Experiments:
+	shared_memory: shared memory example
+	texture_memory: texture memory example
+	constant_memory: constant memory example
+
+- Graph: Folder containing scripts and result files to do analysis and plot generation. 
+
+- deviceProp.cu  : probe device properties, calculate peak flops and mem bandwidth
+
