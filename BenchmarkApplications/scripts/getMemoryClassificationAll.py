@@ -2,7 +2,7 @@
 import collections
 import sys
 
-filename = '../doc/AllBenchmarkMemoryTypesNamed.csv'
+filename = '../doc/AllBenchmarkMemoryTypes.csv'
 
 def main(argv):
     if(len(sys.argv) < 3):

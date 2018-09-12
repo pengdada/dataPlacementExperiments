@@ -24,15 +24,14 @@ MINEXPMETRICS=141
 
 HOST=`hostname | awk -F'-|[0-9]' '{ print $1 }'`
 
-find ../benchmarks/ -name $FILE | awk -F'/' '{ print $3 }' | while read DIR;do
+find ../ -name $FILE | awk -F'/' '{ print $2 }' | while read DIR;do
 	echo $DIR
-	cd ../benchmarks/$DIR
+	cd ../$DIR
 	chmod +x $FILE
 	COMPILE_CMD=./$FILE
 
 	cat $FILE | grep -v -e '^$' | grep -v "^ *#" | awk -F'-o' '{ print $2 }' | awk '{ print $1}' | while read BIN;do
 
-		TEST=$( $COMPILE_CMD )
 		for i in $( seq 1 $ITERATIONS )
 		do	
 
@@ -43,6 +42,7 @@ find ../benchmarks/ -name $FILE | awk -F'/' '{ print $3 }' | while read DIR;do
 
 			PERF_FILE=$PERFDIR$FNAME".time"
 			
+			TEST=$( $COMPILE_CMD )
 			chmod +x $BIN
 			RUN_CMD=./$BIN
 

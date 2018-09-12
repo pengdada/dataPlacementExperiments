@@ -1,0 +1,29 @@
+﻿benchmark,type,memory
+spmv,1,1
+spmv,2,2
+spmv,4,3
+spmv,5,4
+spmv,6,5
+spmv,7,6
+spmv,10,7
+spmv,11,8
+spmv,spmv_rule,9
+spmv,spmv,all global
+mm,1,1
+mm,3,2
+mm,6,3
+mm,8,4
+mm,mm_rule,5
+mm,mm_shmem,6
+mm,surface,7
+mm,mm,all global
+mm,mm_naive,unknown
+cfd,1,1
+cfd,2,2
+cfd,3,3
+cfd,4,4
+cfd,6,5
+cfd,7,6
+cfd,cfd_rule,7
+cfd,cfd_new,8
+cfd,cfd,all global

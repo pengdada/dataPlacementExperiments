@@ -1,0 +1,20 @@
+volta cfd 1 1 0.00190472
+volta cfd cfd_rule 7 0.00212703
+volta cfd 2 2 0.00226411
+volta cfd 4 4 0.00226457
+volta cfd 3 3 0.00226519
+volta cfd 6 5 0.00235805
+volta cfd 7 6 0.00239614
+volta cfd cfd_new 8 0.00239616
+volta cfd cfd all global 0.00190381
+volta mm 8 4 0.00015659
+volta mm mm_shmem 6 0.00060850
+volta mm mm_rule 5 0.00065127
+volta mm 3 2 0.00068666
+volta mm 6 3 0.00068787
+volta mm surface 7 0.00075219
+volta mm 1 1 0.00078339
+volta mm mm_naive unknown 0.00107640
+volta mm mm all global 0.00060637
+volta spmv spmv_rule 9 0.00030811
+volta spmv spmv all global 0.00023510
