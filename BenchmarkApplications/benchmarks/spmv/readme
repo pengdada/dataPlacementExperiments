@@ -1,0 +1,23 @@
+To collect data:
+1: Change parameters.h to set the desired data sizes: default should work
+2: make check
+  ./collect.result.sh
+
+copy&paste result to 
+https://docs.google.com/spreadsheets/d/1l94FEdGZtKg7_EczdSsE9A3-l5z7Yw3KLE0yvt8evvo/edit#gid=1710250686
+
+--------------------------------
+code	Placement policy	
+---------------------------------
+1.cu	rowDeli[] in shared memory	
+2.cu	rowDeli[] in constant 	
+4.cu	vec[] texture 1D, rowD[] shared	
+5.cu	val[] in texture 1D	
+6.cu	vec[] in constant, rowDeli[] in texture 1D	
+7.cu	vec[]-texture 1D	
+8.cu (4.cu + restrict col)	vec[] in texture 1D, rowDeli[] in shared	
+9.cu	val[], col[] in texture 1D, rowDeli[] in constant	
+10.cu	val[], cols[], vec[] texture 1D	
+11.cu	cols[] texture 1D	
+spmv_rule.cu	val[], col[], vec[], rowDeli[] in texture 1D	
+spmv.cu	:   all global memory	

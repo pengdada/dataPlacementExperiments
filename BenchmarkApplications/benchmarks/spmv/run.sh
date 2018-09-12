@@ -1,0 +1,12 @@
+./1.out 
+./2.out 
+./4.out 
+./5.out 
+./6.out 
+./7.out 
+./8.out 
+./9.out 
+./10.out 
+./11.out 
+./spmv.out
+./spmv_rule.out

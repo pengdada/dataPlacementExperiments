@@ -1,0 +1,12 @@
+--------------------------------
+code	Placement policy	
+---------------------------------
+mm-shmem.cu 	a[], b[] shared memory and struct
+mm-naive.cu  	naive version: global memory and struct
+mm_rule.cu      a[] texture 1D, b[] texture 1D 
+mm.cu  		global memory, no struct
+1.cu		a[] texture, b[] texture 2D 
+3.cu		a[] texture 2D
+6.cu		a[] restrict, b[] texture 2D 
+8.cu		b[] texture 1D
+surface.cu  	a[] surface texture memory	

@@ -1,0 +1,1380 @@
+cloud-volta,spmv,1,1,0.00006521
+cloud-volta,spmv,5,4,0.00006530
+cloud-volta,spmv,1,1,0.00006534
+cloud-volta,spmv,spmv,all global,0.00006536
+cloud-volta,spmv,spmv,all global,0.00006541
+cloud-volta,spmv,1,1,0.00006545
+cloud-volta,spmv,5,4,0.00006545
+cloud-volta,spmv,spmv,all global,0.00006549
+cloud-volta,spmv,5,4,0.00006555
+cloud-volta,spmv,spmv,all global,0.00006558
+cloud-volta,spmv,1,1,0.00006559
+cloud-volta,spmv,spmv,all global,0.00006559
+cloud-volta,spmv,5,4,0.00006560
+cloud-volta,spmv,spmv,all global,0.00006560
+cloud-volta,spmv,1,1,0.00006562
+cloud-volta,spmv,5,4,0.00006562
+cloud-volta,spmv,spmv,all global,0.00006562
+cloud-volta,spmv,spmv,all global,0.00006563
+cloud-volta,spmv,5,4,0.00006564
+cloud-volta,spmv,spmv,all global,0.00006565
+cloud-volta,spmv,5,4,0.00006566
+cloud-volta,spmv,5,4,0.00006566
+cloud-volta,spmv,spmv,all global,0.00006566
+cloud-volta,spmv,1,1,0.00006567
+cloud-volta,spmv,5,4,0.00006568
+cloud-volta,spmv,5,4,0.00006569
+cloud-volta,spmv,5,4,0.00006569
+cloud-volta,spmv,spmv,all global,0.00006570
+cloud-volta,spmv,1,1,0.00006573
+cloud-volta,spmv,5,4,0.00006574
+cloud-volta,spmv,1,1,0.00006576
+cloud-volta,spmv,5,4,0.00006576
+cloud-volta,spmv,1,1,0.00006579
+cloud-volta,spmv,5,4,0.00006579
+cloud-volta,spmv,spmv,all global,0.00006579
+cloud-volta,spmv,spmv,all global,0.00006580
+cloud-volta,spmv,1,1,0.00006581
+cloud-volta,spmv,5,4,0.00006584
+cloud-volta,spmv,5,4,0.00006584
+cloud-volta,spmv,1,1,0.00006585
+cloud-volta,spmv,5,4,0.00006586
+cloud-volta,spmv,spmv,all global,0.00006588
+cloud-volta,spmv,spmv,all global,0.00006588
+cloud-volta,spmv,1,1,0.00006590
+cloud-volta,spmv,spmv,all global,0.00006591
+cloud-volta,spmv,spmv,all global,0.00006592
+cloud-volta,spmv,5,4,0.00006596
+cloud-volta,spmv,1,1,0.00006600
+cloud-volta,spmv,1,1,0.00006603
+cloud-volta,spmv,1,1,0.00006604
+cloud-volta,spmv,1,1,0.00006608
+cloud-volta,spmv,5,4,0.00006609
+cloud-volta,spmv,5,4,0.00006611
+cloud-volta,spmv,1,1,0.00006612
+cloud-volta,spmv,1,1,0.00006612
+cloud-volta,spmv,1,1,0.00006614
+cloud-volta,spmv,spmv,all global,0.00006619
+cloud-volta,spmv,1,1,0.00006627
+cloud-volta,spmv,2,2,0.00006636
+cloud-volta,spmv,spmv,all global,0.00006636
+cloud-volta,spmv,2,2,0.00006639
+cloud-volta,spmv,2,2,0.00006659
+cloud-volta,spmv,2,2,0.00006662
+cloud-volta,spmv,2,2,0.00006668
+cloud-volta,spmv,spmv,all global,0.00006668
+cloud-volta,spmv,2,2,0.00006673
+cloud-volta,spmv,2,2,0.00006673
+cloud-volta,spmv,2,2,0.00006677
+cloud-volta,spmv,2,2,0.00006681
+cloud-volta,spmv,2,2,0.00006686
+cloud-volta,spmv,2,2,0.00006688
+cloud-volta,spmv,2,2,0.00006699
+cloud-volta,spmv,2,2,0.00006700
+cloud-volta,spmv,2,2,0.00006700
+cloud-volta,spmv,2,2,0.00006700
+cloud-volta,spmv,2,2,0.00006702
+cloud-volta,spmv,2,2,0.00006708
+cloud-volta,spmv,2,2,0.00006712
+cloud-volta,spmv,2,2,0.00006731
+cloud-volta,spmv,2,2,0.00006753
+cloud-volta,spmv,4,3,0.00006832
+cloud-volta,spmv,4,3,0.00006845
+cloud-volta,spmv,4,3,0.00006845
+cloud-volta,spmv,4,3,0.00006846
+cloud-volta,spmv,4,3,0.00006848
+cloud-volta,spmv,4,3,0.00006849
+cloud-volta,spmv,4,3,0.00006856
+cloud-volta,spmv,4,3,0.00006858
+cloud-volta,spmv,4,3,0.00006859
+cloud-volta,spmv,4,3,0.00006860
+cloud-volta,spmv,4,3,0.00006868
+cloud-volta,spmv,4,3,0.00006882
+cloud-volta,spmv,4,3,0.00006887
+cloud-volta,spmv,4,3,0.00006893
+cloud-volta,spmv,4,3,0.00006894
+cloud-volta,spmv,4,3,0.00006895
+cloud-volta,spmv,4,3,0.00006901
+cloud-volta,spmv,4,3,0.00006907
+cloud-volta,spmv,4,3,0.00006909
+cloud-volta,spmv,4,3,0.00006980
+cloud-volta,spmv,7,6,0.00007387
+cloud-volta,spmv,7,6,0.00007405
+cloud-volta,spmv,7,6,0.00007409
+cloud-volta,spmv,7,6,0.00007413
+cloud-volta,spmv,7,6,0.00007416
+cloud-volta,spmv,7,6,0.00007422
+cloud-volta,spmv,7,6,0.00007424
+cloud-volta,spmv,7,6,0.00007432
+cloud-volta,spmv,7,6,0.00007434
+cloud-volta,spmv,7,6,0.00007439
+cloud-volta,spmv,7,6,0.00007442
+cloud-volta,spmv,7,6,0.00007447
+cloud-volta,spmv,7,6,0.00007449
+cloud-volta,spmv,7,6,0.00007452
+cloud-volta,spmv,7,6,0.00007466
+cloud-volta,spmv,7,6,0.00007474
+cloud-volta,spmv,7,6,0.00007474
+cloud-volta,spmv,7,6,0.00007475
+cloud-volta,spmv,7,6,0.00007484
+cloud-volta,spmv,7,6,0.00007494
+cloud-volta,spmv,10,7,0.00008943
+cloud-volta,spmv,10,7,0.00008954
+cloud-volta,spmv,10,7,0.00008968
+cloud-volta,spmv,10,7,0.00008969
+cloud-volta,spmv,10,7,0.00008975
+cloud-volta,spmv,10,7,0.00009015
+cloud-volta,spmv,10,7,0.00009055
+cloud-volta,spmv,10,7,0.00009067
+cloud-volta,spmv,10,7,0.00009070
+cloud-volta,spmv,spmv_rule,9,0.00009086
+cloud-volta,spmv,spmv_rule,9,0.00009099
+cloud-volta,spmv,spmv_rule,9,0.00009104
+cloud-volta,spmv,spmv_rule,9,0.00009114
+cloud-volta,spmv,spmv_rule,9,0.00009122
+cloud-volta,spmv,10,7,0.00009129
+cloud-volta,spmv,spmv_rule,9,0.00009129
+cloud-volta,spmv,spmv_rule,9,0.00009130
+cloud-volta,spmv,spmv_rule,9,0.00009140
+cloud-volta,spmv,spmv_rule,9,0.00009143
+cloud-volta,spmv,spmv_rule,9,0.00009146
+cloud-volta,spmv,spmv_rule,9,0.00009148
+cloud-volta,spmv,spmv_rule,9,0.00009149
+cloud-volta,spmv,spmv_rule,9,0.00009151
+cloud-volta,spmv,spmv_rule,9,0.00009163
+cloud-volta,spmv,spmv_rule,9,0.00009167
+cloud-volta,spmv,spmv_rule,9,0.00009176
+cloud-volta,spmv,spmv_rule,9,0.00009179
+cloud-volta,spmv,spmv_rule,9,0.00009181
+cloud-volta,spmv,spmv_rule,9,0.00009191
+cloud-volta,spmv,spmv_rule,9,0.00009191
+cloud-volta,cfd,cfd_rule,7,0.00012617
+cloud-volta,cfd,cfd_rule,7,0.00012693
+cloud-volta,cfd,cfd_rule,7,0.00012708
+cloud-volta,cfd,cfd_rule,7,0.00012710
+cloud-volta,cfd,cfd_rule,7,0.00012719
+cloud-volta,cfd,cfd_rule,7,0.00012725
+cloud-volta,cfd,cfd_rule,7,0.00012738
+cloud-volta,cfd,cfd_rule,7,0.00012740
+cloud-volta,cfd,cfd_rule,7,0.00012764
+cloud-volta,cfd,cfd_rule,7,0.00012766
+cloud-volta,cfd,cfd_rule,7,0.00012771
+cloud-volta,cfd,cfd_rule,7,0.00012775
+cloud-volta,cfd,cfd_rule,7,0.00012776
+cloud-volta,cfd,2,2,0.00012784
+cloud-volta,cfd,cfd_rule,7,0.00012788
+cloud-volta,cfd,4,4,0.00012802
+cloud-volta,cfd,2,2,0.00012809
+cloud-volta,cfd,2,2,0.00012816
+cloud-volta,cfd,cfd_rule,7,0.00012818
+cloud-volta,cfd,cfd_rule,7,0.00012821
+cloud-volta,cfd,cfd_rule,7,0.00012825
+cloud-volta,cfd,cfd_rule,7,0.00012825
+cloud-volta,cfd,4,4,0.00012828
+cloud-volta,cfd,cfd_rule,7,0.00012830
+cloud-volta,cfd,4,4,0.00012838
+cloud-volta,cfd,2,2,0.00012850
+cloud-volta,cfd,3,3,0.00012851
+cloud-volta,cfd,cfd_rule,7,0.00012851
+cloud-volta,cfd,2,2,0.00012852
+cloud-volta,cfd,2,2,0.00012855
+cloud-volta,cfd,2,2,0.00012860
+cloud-volta,cfd,cfd,all global,0.00012862
+cloud-volta,cfd,cfd,all global,0.00012865
+cloud-volta,cfd,2,2,0.00012868
+cloud-volta,cfd,4,4,0.00012868
+cloud-volta,cfd,2,2,0.00012870
+cloud-volta,spmv,11,8,0.00012870
+cloud-volta,cfd,4,4,0.00012878
+cloud-volta,cfd,2,2,0.00012880
+cloud-volta,cfd,3,3,0.00012880
+cloud-volta,cfd,4,4,0.00012880
+cloud-volta,cfd,2,2,0.00012885
+cloud-volta,spmv,11,8,0.00012885
+cloud-volta,cfd,cfd,all global,0.00012890
+cloud-volta,cfd,cfd,all global,0.00012897
+cloud-volta,cfd,2,2,0.00012899
+cloud-volta,cfd,2,2,0.00012903
+cloud-volta,cfd,cfd,all global,0.00012906
+cloud-volta,cfd,cfd,all global,0.00012907
+cloud-volta,cfd,2,2,0.00012910
+cloud-volta,cfd,cfd,all global,0.00012910
+cloud-volta,cfd,cfd,all global,0.00012912
+cloud-volta,cfd,4,4,0.00012913
+cloud-volta,cfd,2,2,0.00012914
+cloud-volta,cfd,2,2,0.00012916
+cloud-volta,spmv,11,8,0.00012917
+cloud-volta,cfd,4,4,0.00012920
+cloud-volta,cfd,cfd,all global,0.00012926
+cloud-volta,cfd,3,3,0.00012927
+cloud-volta,cfd,4,4,0.00012927
+cloud-volta,cfd,4,4,0.00012928
+cloud-volta,spmv,11,8,0.00012930
+cloud-volta,cfd,4,4,0.00012938
+cloud-volta,cfd,3,3,0.00012939
+cloud-volta,cfd,cfd,all global,0.00012940
+cloud-volta,cfd,cfd,all global,0.00012942
+cloud-volta,cfd,3,3,0.00012944
+cloud-volta,cfd,cfd,all global,0.00012945
+cloud-volta,spmv,11,8,0.00012953
+cloud-volta,cfd,3,3,0.00012955
+cloud-volta,cfd,2,2,0.00012957
+cloud-volta,cfd,2,2,0.00012959
+cloud-volta,spmv,11,8,0.00012960
+cloud-volta,cfd,2,2,0.00012962
+cloud-volta,spmv,11,8,0.00012962
+cloud-volta,cfd,cfd,all global,0.00012964
+cloud-volta,cfd,cfd,all global,0.00012964
+cloud-volta,cfd,cfd,all global,0.00012966
+cloud-volta,spmv,11,8,0.00012967
+cloud-volta,spmv,11,8,0.00012970
+cloud-volta,cfd,cfd,all global,0.00012976
+cloud-volta,cfd,3,3,0.00012977
+cloud-volta,cfd,4,4,0.00012977
+cloud-volta,cfd,3,3,0.00012979
+cloud-volta,cfd,cfd,all global,0.00012991
+cloud-volta,cfd,cfd,all global,0.00012993
+cloud-volta,cfd,2,2,0.00012994
+cloud-volta,cfd,4,4,0.00012995
+cloud-volta,cfd,3,3,0.00012996
+cloud-volta,cfd,3,3,0.00013001
+cloud-volta,cfd,4,4,0.00013004
+cloud-volta,cfd,3,3,0.00013006
+cloud-volta,spmv,11,8,0.00013006
+cloud-volta,cfd,3,3,0.00013010
+cloud-volta,cfd,4,4,0.00013010
+cloud-volta,cfd,3,3,0.00013012
+cloud-volta,cfd,3,3,0.00013023
+cloud-volta,cfd,4,4,0.00013024
+cloud-volta,cfd,4,4,0.00013024
+cloud-volta,cfd,3,3,0.00013029
+cloud-volta,cfd,cfd,all global,0.00013031
+cloud-volta,cfd,3,3,0.00013035
+cloud-volta,cfd,4,4,0.00013038
+cloud-volta,cfd,3,3,0.00013045
+cloud-volta,cfd,4,4,0.00013048
+cloud-volta,cfd,3,3,0.00013075
+cloud-volta,cfd,3,3,0.00013088
+cloud-volta,cfd,cfd,all global,0.00013093
+cloud-volta,cfd,3,3,0.00013115
+cloud-volta,cfd,4,4,0.00013302
+cloud-volta,cfd,7,6,0.00013955
+cloud-volta,cfd,cfd_new,8,0.00013978
+cloud-volta,cfd,7,6,0.00013983
+cloud-volta,cfd,7,6,0.00013987
+cloud-volta,cfd,cfd_new,8,0.00013989
+cloud-volta,cfd,7,6,0.00014003
+cloud-volta,cfd,7,6,0.00014004
+cloud-volta,cfd,7,6,0.00014006
+cloud-volta,cfd,7,6,0.00014014
+cloud-volta,cfd,cfd_new,8,0.00014030
+cloud-volta,cfd,7,6,0.00014033
+cloud-volta,cfd,cfd_new,8,0.00014040
+cloud-volta,cfd,7,6,0.00014043
+cloud-volta,cfd,cfd_new,8,0.00014045
+cloud-volta,cfd,cfd_new,8,0.00014050
+cloud-volta,cfd,cfd_new,8,0.00014051
+cloud-volta,cfd,7,6,0.00014064
+cloud-volta,cfd,7,6,0.00014065
+cloud-volta,cfd,cfd_new,8,0.00014066
+cloud-volta,cfd,7,6,0.00014068
+cloud-volta,cfd,cfd_new,8,0.00014069
+cloud-volta,cfd,7,6,0.00014071
+cloud-volta,cfd,cfd_new,8,0.00014079
+cloud-volta,cfd,7,6,0.00014086
+cloud-volta,cfd,cfd_new,8,0.00014087
+cloud-volta,cfd,cfd_new,8,0.00014098
+cloud-volta,cfd,7,6,0.00014102
+cloud-volta,cfd,cfd_new,8,0.00014102
+cloud-volta,cfd,7,6,0.00014112
+cloud-volta,cfd,7,6,0.00014114
+cloud-volta,cfd,cfd_new,8,0.00014125
+cloud-volta,cfd,cfd_new,8,0.00014131
+cloud-volta,cfd,cfd_new,8,0.00014132
+cloud-volta,cfd,cfd_new,8,0.00014140
+cloud-volta,cfd,7,6,0.00014145
+cloud-volta,cfd,cfd_new,8,0.00014149
+cloud-volta,cfd,cfd_new,8,0.00014152
+cloud-volta,cfd,7,6,0.00014187
+cloud-volta,cfd,cfd_new,8,0.00014251
+cloud-volta,cfd,7,6,0.00014277
+cloud-volta,cfd,6,5,0.00014329
+cloud-volta,cfd,6,5,0.00014329
+cloud-volta,cfd,6,5,0.00014341
+cloud-volta,cfd,6,5,0.00014352
+cloud-volta,cfd,6,5,0.00014379
+cloud-volta,cfd,6,5,0.00014419
+cloud-volta,cfd,6,5,0.00014448
+cloud-volta,cfd,6,5,0.00014456
+cloud-volta,cfd,6,5,0.00014469
+cloud-volta,cfd,6,5,0.00014476
+cloud-volta,cfd,6,5,0.00014508
+cloud-volta,cfd,6,5,0.00014511
+cloud-volta,cfd,6,5,0.00014544
+cloud-volta,cfd,6,5,0.00014548
+cloud-volta,cfd,6,5,0.00014557
+cloud-volta,cfd,6,5,0.00014580
+cloud-volta,cfd,6,5,0.00014635
+cloud-volta,cfd,1,1,0.00014716
+cloud-volta,cfd,1,1,0.00014794
+cloud-volta,cfd,1,1,0.00014829
+cloud-volta,cfd,1,1,0.00014851
+cloud-volta,cfd,1,1,0.00014894
+cloud-volta,cfd,1,1,0.00014940
+cloud-volta,cfd,1,1,0.00014962
+cloud-volta,cfd,1,1,0.00014986
+cloud-volta,cfd,1,1,0.00015002
+cloud-volta,cfd,1,1,0.00015009
+cloud-volta,cfd,1,1,0.00015023
+cloud-volta,cfd,1,1,0.00015044
+cloud-volta,cfd,6,5,0.00015061
+cloud-volta,cfd,1,1,0.00015074
+cloud-volta,cfd,1,1,0.00015087
+cloud-volta,cfd,6,5,0.00015096
+cloud-volta,cfd,1,1,0.00015098
+cloud-volta,cfd,1,1,0.00015099
+cloud-volta,cfd,6,5,0.00015111
+cloud-volta,cfd,1,1,0.00015164
+cloud-volta,cfd,1,1,0.00015196
+cloud-volta,cfd,1,1,0.00015201
+cloud-volta,cfd,1,1,0.00015272
+ray-pascal,spmv,4,3,0.00016213
+ray-pascal,spmv,4,3,0.00016239
+ray-pascal,spmv,4,3,0.00016250
+ray-pascal,spmv,4,3,0.00016264
+ray-pascal,spmv,4,3,0.00016309
+ray-pascal,spmv,4,3,0.00016327
+ray-pascal,spmv,4,3,0.00016331
+ray-pascal,spmv,4,3,0.00016349
+ray-pascal,spmv,4,3,0.00016378
+ray-pascal,spmv,1,1,0.00016446
+ray-pascal,spmv,4,3,0.00016454
+ray-pascal,spmv,1,1,0.00016549
+ray-pascal,spmv,1,1,0.00016552
+ray-pascal,spmv,1,1,0.00016591
+ray-pascal,spmv,1,1,0.00016627
+ray-pascal,spmv,1,1,0.00016628
+ray-pascal,spmv,1,1,0.00016632
+ray-pascal,spmv,1,1,0.00016675
+ray-pascal,spmv,1,1,0.00016680
+ray-pascal,spmv,1,1,0.00016781
+ray-pascal,spmv,spmv,all global,0.00016837
+ray-pascal,spmv,spmv,all global,0.00016858
+ray-pascal,spmv,spmv,all global,0.00016861
+ray-pascal,spmv,5,4,0.00016862
+ray-pascal,spmv,spmv,all global,0.00016879
+ray-pascal,spmv,spmv,all global,0.00016882
+ray-pascal,spmv,5,4,0.00016886
+ray-pascal,spmv,5,4,0.00016887
+ray-pascal,spmv,spmv,all global,0.00016897
+ray-pascal,spmv,5,4,0.00016902
+ray-pascal,spmv,5,4,0.00016924
+ray-pascal,spmv,2,2,0.00016929
+ray-pascal,spmv,5,4,0.00016929
+ray-pascal,spmv,2,2,0.00016931
+ray-pascal,spmv,5,4,0.00016936
+ray-pascal,spmv,2,2,0.00016948
+ray-pascal,spmv,5,4,0.00016955
+ray-pascal,spmv,spmv,all global,0.00016963
+ray-pascal,spmv,spmv,all global,0.00016971
+ray-pascal,spmv,2,2,0.00016976
+ray-pascal,spmv,5,4,0.00016991
+ray-pascal,spmv,spmv,all global,0.00016993
+ray-pascal,spmv,5,4,0.00017006
+ray-pascal,spmv,2,2,0.00017008
+ray-pascal,spmv,spmv,all global,0.00017015
+ray-pascal,spmv,2,2,0.00017021
+ray-pascal,spmv,2,2,0.00017026
+ray-pascal,spmv,2,2,0.00017049
+ray-pascal,spmv,2,2,0.00017055
+ray-pascal,spmv,2,2,0.00017133
+ray-pascal,spmv,7,6,0.00017776
+ray-pascal,spmv,7,6,0.00017792
+ray-pascal,spmv,7,6,0.00017820
+ray-pascal,spmv,7,6,0.00017828
+ray-pascal,spmv,7,6,0.00017863
+ray-pascal,spmv,7,6,0.00017906
+ray-pascal,spmv,10,7,0.00017912
+ray-pascal,spmv,7,6,0.00017918
+ray-pascal,spmv,7,6,0.00017949
+ray-pascal,spmv,10,7,0.00017959
+ray-pascal,spmv,10,7,0.00017994
+ray-pascal,spmv,spmv_rule,9,0.00018014
+ray-pascal,spmv,10,7,0.00018019
+ray-pascal,spmv,10,7,0.00018054
+ray-pascal,spmv,7,6,0.00018070
+ray-pascal,spmv,7,6,0.00018075
+ray-pascal,spmv,10,7,0.00018100
+ray-pascal,spmv,10,7,0.00018106
+ray-pascal,spmv,spmv_rule,9,0.00018108
+ray-pascal,spmv,10,7,0.00018121
+ray-pascal,spmv,spmv_rule,9,0.00018123
+ray-pascal,spmv,spmv_rule,9,0.00018132
+ray-pascal,spmv,10,7,0.00018133
+ray-pascal,spmv,spmv_rule,9,0.00018135
+ray-pascal,spmv,spmv_rule,9,0.00018136
+ray-pascal,spmv,10,7,0.00018154
+ray-pascal,spmv,spmv_rule,9,0.00018239
+ray-pascal,spmv,spmv_rule,9,0.00018244
+ray-pascal,spmv,spmv_rule,9,0.00018265
+ray-pascal,spmv,spmv_rule,9,0.00018288
+ray-pascal,spmv,11,8,0.00023413
+ray-pascal,spmv,11,8,0.00023429
+ray-pascal,spmv,11,8,0.00023442
+ray-pascal,spmv,11,8,0.00023503
+ray-pascal,spmv,11,8,0.00023514
+ray-pascal,spmv,11,8,0.00023529
+ray-pascal,spmv,11,8,0.00023551
+ray-pascal,spmv,11,8,0.00023560
+ray-pascal,spmv,11,8,0.00023581
+ray-pascal,spmv,11,8,0.00023688
+ray-pascal,cfd,cfd,all global,0.00032894
+ray-pascal,cfd,cfd,all global,0.00032898
+ray-pascal,cfd,cfd,all global,0.00032940
+ray-pascal,cfd,cfd,all global,0.00032972
+ray-pascal,cfd,cfd,all global,0.00032972
+ray-pascal,cfd,cfd,all global,0.00032988
+ray-pascal,cfd,cfd,all global,0.00032995
+ray-pascal,cfd,cfd,all global,0.00033016
+ray-pascal,cfd,cfd,all global,0.00033034
+ray-pascal,cfd,cfd,all global,0.00033051
+ray-pascal,cfd,1,1,0.00033327
+ray-pascal,cfd,1,1,0.00033344
+ray-pascal,cfd,1,1,0.00033345
+ray-pascal,cfd,1,1,0.00033345
+ray-pascal,cfd,1,1,0.00033369
+ray-pascal,cfd,1,1,0.00033370
+ray-pascal,cfd,1,1,0.00033371
+ray-pascal,cfd,1,1,0.00033406
+ray-pascal,cfd,1,1,0.00033415
+ray-pascal,cfd,1,1,0.00033531
+ray-pascal,cfd,6,5,0.00034595
+ray-pascal,cfd,cfd_rule,7,0.00034608
+ray-pascal,cfd,6,5,0.00034641
+ray-pascal,cfd,cfd_rule,7,0.00034649
+ray-pascal,cfd,6,5,0.00034663
+ray-pascal,cfd,6,5,0.00034664
+ray-pascal,cfd,cfd_rule,7,0.00034667
+ray-pascal,cfd,6,5,0.00034669
+ray-pascal,cfd,6,5,0.00034670
+ray-pascal,cfd,6,5,0.00034680
+ray-pascal,cfd,cfd_rule,7,0.00034681
+ray-pascal,cfd,cfd_rule,7,0.00034683
+ray-pascal,cfd,cfd_rule,7,0.00034686
+ray-pascal,cfd,cfd_rule,7,0.00034687
+ray-pascal,cfd,6,5,0.00034691
+ray-pascal,cfd,6,5,0.00034693
+ray-pascal,cfd,cfd_rule,7,0.00034731
+ray-pascal,cfd,cfd_rule,7,0.00034742
+ray-pascal,cfd,cfd_rule,7,0.00034756
+ray-pascal,cfd,6,5,0.00034785
+ray-pascal,cfd,cfd_new,8,0.00034792
+ray-pascal,cfd,7,6,0.00034831
+ray-pascal,cfd,cfd_new,8,0.00034831
+ray-pascal,cfd,7,6,0.00034835
+ray-pascal,cfd,cfd_new,8,0.00034836
+ray-pascal,cfd,7,6,0.00034845
+ray-pascal,cfd,7,6,0.00034851
+ray-pascal,cfd,cfd_new,8,0.00034874
+ray-pascal,cfd,cfd_new,8,0.00034877
+ray-pascal,cfd,cfd_new,8,0.00034881
+ray-pascal,cfd,7,6,0.00034885
+ray-pascal,cfd,7,6,0.00034903
+ray-pascal,cfd,7,6,0.00034910
+ray-pascal,cfd,cfd_new,8,0.00034917
+ray-pascal,cfd,7,6,0.00034923
+ray-pascal,cfd,cfd_new,8,0.00034923
+ray-pascal,cfd,cfd_new,8,0.00034924
+ray-pascal,cfd,cfd_new,8,0.00034925
+ray-pascal,cfd,7,6,0.00034941
+ray-pascal,cfd,7,6,0.00034946
+ray-pascal,cfd,3,3,0.00035050
+ray-pascal,cfd,3,3,0.00035072
+ray-pascal,cfd,3,3,0.00035076
+ray-pascal,cfd,3,3,0.00035080
+ray-pascal,cfd,3,3,0.00035082
+ray-pascal,cfd,3,3,0.00035140
+ray-pascal,cfd,2,2,0.00035155
+ray-pascal,cfd,3,3,0.00035157
+ray-pascal,cfd,3,3,0.00035168
+ray-pascal,cfd,3,3,0.00035169
+ray-pascal,cfd,4,4,0.00035169
+ray-pascal,cfd,3,3,0.00035175
+ray-pascal,cfd,4,4,0.00035190
+ray-pascal,cfd,2,2,0.00035192
+ray-pascal,cfd,4,4,0.00035200
+ray-pascal,cfd,4,4,0.00035200
+ray-pascal,cfd,2,2,0.00035202
+ray-pascal,cfd,2,2,0.00035205
+ray-pascal,cfd,2,2,0.00035212
+ray-pascal,cfd,4,4,0.00035213
+ray-pascal,cfd,4,4,0.00035217
+ray-pascal,cfd,2,2,0.00035236
+ray-pascal,cfd,4,4,0.00035247
+ray-pascal,cfd,2,2,0.00035254
+ray-pascal,cfd,2,2,0.00035277
+ray-pascal,cfd,4,4,0.00035277
+ray-pascal,cfd,2,2,0.00035282
+ray-pascal,cfd,2,2,0.00035285
+ray-pascal,cfd,4,4,0.00035295
+ray-pascal,cfd,4,4,0.00035302
+surface-kepler,spmv,4,3,0.00051874
+surface-kepler,spmv,4,3,0.00051992
+surface-kepler,spmv,4,3,0.00052007
+surface-kepler,spmv,4,3,0.00052012
+surface-kepler,spmv,spmv_rule,9,0.00052012
+surface-kepler,spmv,spmv_rule,9,0.00052015
+surface-kepler,spmv,spmv_rule,9,0.00052025
+surface-kepler,spmv,4,3,0.00052036
+surface-kepler,spmv,4,3,0.00052041
+surface-kepler,spmv,spmv_rule,9,0.00052050
+surface-kepler,spmv,4,3,0.00052054
+surface-kepler,spmv,spmv_rule,9,0.00052059
+surface-kepler,spmv,spmv_rule,9,0.00052068
+surface-kepler,spmv,spmv_rule,9,0.00052072
+surface-kepler,spmv,10,7,0.00052079
+surface-kepler,spmv,4,3,0.00052079
+surface-kepler,spmv,spmv_rule,9,0.00052086
+surface-kepler,spmv,10,7,0.00052106
+surface-kepler,spmv,4,3,0.00052119
+surface-kepler,spmv,10,7,0.00052135
+surface-kepler,spmv,spmv_rule,9,0.00052165
+surface-kepler,spmv,4,3,0.00052166
+surface-kepler,spmv,10,7,0.00052169
+surface-kepler,spmv,10,7,0.00052180
+surface-kepler,spmv,10,7,0.00052196
+surface-kepler,spmv,spmv_rule,9,0.00052227
+surface-kepler,spmv,10,7,0.00052271
+surface-kepler,spmv,10,7,0.00052335
+surface-kepler,spmv,10,7,0.00052372
+surface-kepler,spmv,10,7,0.00052405
+surface-kepler,spmv,7,6,0.00053072
+surface-kepler,spmv,7,6,0.00053083
+surface-kepler,spmv,7,6,0.00053098
+surface-kepler,spmv,7,6,0.00053112
+surface-kepler,spmv,7,6,0.00053113
+surface-kepler,spmv,7,6,0.00053194
+surface-kepler,spmv,7,6,0.00053198
+surface-kepler,spmv,7,6,0.00053214
+surface-kepler,spmv,7,6,0.00053224
+surface-kepler,spmv,7,6,0.00053296
+cloud-volta,mm,mm_rule,5,0.00053387
+cloud-volta,mm,mm_rule,5,0.00053396
+cloud-volta,mm,mm_rule,5,0.00053400
+cloud-volta,mm,mm_rule,5,0.00053437
+cloud-volta,mm,mm_rule,5,0.00053463
+cloud-volta,mm,mm_rule,5,0.00053496
+cloud-volta,mm,mm_rule,5,0.00053503
+cloud-volta,mm,mm_rule,5,0.00053503
+cloud-volta,mm,mm_rule,5,0.00053518
+cloud-volta,mm,mm_rule,5,0.00053536
+cloud-volta,mm,mm_rule,5,0.00053539
+cloud-volta,mm,mm_rule,5,0.00053553
+cloud-volta,mm,mm_rule,5,0.00053589
+cloud-volta,mm,mm_rule,5,0.00053635
+cloud-volta,mm,mm_rule,5,0.00053697
+cloud-volta,mm,mm_rule,5,0.00053701
+cloud-volta,mm,8,4,0.00056183
+cloud-volta,mm,8,4,0.00056281
+cloud-volta,mm,8,4,0.00056316
+cloud-volta,mm,8,4,0.00056369
+cloud-volta,mm,8,4,0.00056420
+cloud-volta,mm,8,4,0.00056507
+cloud-volta,mm,6,3,0.00058858
+cloud-volta,mm,6,3,0.00058926
+cloud-volta,mm,mm,all global,0.00058967
+cloud-volta,mm,6,3,0.00058994
+cloud-volta,mm,6,3,0.00058995
+cloud-volta,mm,mm,all global,0.00059025
+cloud-volta,mm,6,3,0.00059049
+cloud-volta,mm,6,3,0.00059091
+cloud-volta,mm,mm,all global,0.00059100
+cloud-volta,mm,mm,all global,0.00059116
+cloud-volta,mm,6,3,0.00059128
+cloud-volta,mm,6,3,0.00059152
+cloud-volta,mm,mm,all global,0.00059166
+cloud-volta,mm,mm,all global,0.00059201
+cloud-volta,mm,3,2,0.00059299
+cloud-volta,mm,mm_shmem,6,0.00059300
+cloud-volta,mm,3,2,0.00059332
+cloud-volta,mm,3,2,0.00059349
+cloud-volta,mm,mm_shmem,6,0.00059400
+cloud-volta,mm,mm_shmem,6,0.00059400
+cloud-volta,mm,3,2,0.00059525
+cloud-volta,mm,3,2,0.00059535
+cloud-volta,mm,mm_rule,5,0.00059600
+cloud-volta,mm,3,2,0.00059637
+cloud-volta,mm,8,4,0.00059728
+cloud-volta,mm,8,4,0.00059773
+cloud-volta,mm,8,4,0.00059805
+cloud-volta,mm,8,4,0.00059865
+cloud-volta,mm,8,4,0.00059873
+cloud-volta,mm,8,4,0.00059920
+cloud-volta,mm,8,4,0.00059921
+cloud-volta,mm,8,4,0.00060087
+cloud-volta,mm,3,2,0.00061264
+cloud-volta,mm,6,3,0.00062385
+cloud-volta,mm,6,3,0.00062431
+cloud-volta,mm,mm_rule,5,0.00062549
+cloud-volta,mm,mm,all global,0.00062612
+cloud-volta,mm,6,3,0.00062615
+cloud-volta,mm,mm_rule,5,0.00062690
+cloud-volta,mm,mm_rule,5,0.00062694
+cloud-volta,mm,mm,all global,0.00062733
+cloud-volta,mm,mm_shmem,6,0.00062800
+cloud-volta,mm,3,2,0.00062856
+cloud-volta,mm,mm,all global,0.00062888
+cloud-volta,mm,mm_shmem,6,0.00062900
+cloud-volta,mm,mm_shmem,6,0.00062900
+cloud-volta,mm,3,2,0.00062997
+cloud-volta,mm,mm_shmem,6,0.00063000
+cloud-volta,mm,3,2,0.00063094
+cloud-volta,mm,mm_shmem,6,0.00063100
+cloud-volta,mm,mm_shmem,6,0.00063100
+cloud-volta,mm,mm_shmem,6,0.00064300
+cloud-volta,mm,6,3,0.00064813
+cloud-volta,mm,8,4,0.00065809
+cloud-volta,mm,8,4,0.00065826
+cloud-volta,mm,8,4,0.00065851
+cloud-volta,mm,8,4,0.00065981
+cloud-volta,mm,8,4,0.00066182
+cloud-volta,mm,8,4,0.00066187
+cloud-volta,mm,1,1,0.00066546
+cloud-volta,mm,1,1,0.00066566
+cloud-volta,mm,1,1,0.00066641
+cloud-volta,mm,1,1,0.00066655
+cloud-volta,mm,1,1,0.00066672
+cloud-volta,mm,1,1,0.00066683
+cloud-volta,mm,1,1,0.00066695
+cloud-volta,mm,1,1,0.00066756
+cloud-volta,mm,1,1,0.00066846
+cloud-volta,mm,1,1,0.00066858
+cloud-volta,mm,1,1,0.00066885
+cloud-volta,mm,1,1,0.00066931
+cloud-volta,mm,1,1,0.00066954
+cloud-volta,mm,1,1,0.00067026
+cloud-volta,mm,1,1,0.00067043
+cloud-volta,mm,1,1,0.00067095
+cloud-volta,mm,1,1,0.00067132
+cloud-volta,mm,1,1,0.00067260
+cloud-volta,mm,1,1,0.00067402
+cloud-volta,mm,surface,7,0.00067938
+cloud-volta,mm,surface,7,0.00068192
+cloud-volta,mm,surface,7,0.00068246
+cloud-volta,mm,surface,7,0.00068258
+cloud-volta,mm,surface,7,0.00068276
+cloud-volta,mm,surface,7,0.00068285
+cloud-volta,mm,surface,7,0.00068293
+cloud-volta,mm,surface,7,0.00068311
+cloud-volta,mm,surface,7,0.00068312
+cloud-volta,mm,surface,7,0.00068379
+cloud-volta,mm,surface,7,0.00068430
+cloud-volta,mm,surface,7,0.00068451
+cloud-volta,mm,surface,7,0.00068491
+cloud-volta,mm,surface,7,0.00068520
+cloud-volta,mm,surface,7,0.00068537
+cloud-volta,mm,surface,7,0.00068559
+cloud-volta,mm,surface,7,0.00068593
+cloud-volta,mm,surface,7,0.00068665
+cloud-volta,mm,6,3,0.00068748
+cloud-volta,mm,6,3,0.00068851
+cloud-volta,mm,6,3,0.00068879
+cloud-volta,mm,6,3,0.00068918
+cloud-volta,mm,6,3,0.00068918
+cloud-volta,mm,6,3,0.00068947
+cloud-volta,mm,6,3,0.00068956
+cloud-volta,mm,mm,all global,0.00068971
+cloud-volta,mm,mm,all global,0.00068998
+cloud-volta,mm,mm,all global,0.00069026
+cloud-volta,mm,6,3,0.00069081
+cloud-volta,mm,mm,all global,0.00069081
+cloud-volta,mm,mm,all global,0.00069088
+cloud-volta,mm,3,2,0.00069114
+cloud-volta,mm,3,2,0.00069117
+cloud-volta,mm,mm,all global,0.00069123
+cloud-volta,mm,mm,all global,0.00069158
+cloud-volta,mm,3,2,0.00069165
+cloud-volta,mm,mm_shmem,6,0.00069200
+cloud-volta,mm,mm_shmem,6,0.00069200
+cloud-volta,mm,3,2,0.00069254
+cloud-volta,mm,mm,all global,0.00069282
+cloud-volta,mm,mm,all global,0.00069290
+cloud-volta,mm,mm,all global,0.00069296
+cloud-volta,mm,mm_shmem,6,0.00069300
+cloud-volta,mm,mm,all global,0.00069303
+cloud-volta,mm,3,2,0.00069332
+cloud-volta,mm,3,2,0.00069343
+cloud-volta,mm,3,2,0.00069392
+cloud-volta,mm,mm_shmem,6,0.00069400
+cloud-volta,mm,mm_shmem,6,0.00069400
+cloud-volta,mm,3,2,0.00069463
+cloud-volta,mm,mm_shmem,6,0.00069500
+cloud-volta,mm,mm_shmem,6,0.00069500
+cloud-volta,mm,3,2,0.00069554
+cloud-volta,mm,3,2,0.00069561
+cloud-volta,mm,mm_shmem,6,0.00069600
+cloud-volta,mm,mm_shmem,6,0.00069600
+cloud-volta,mm,mm_shmem,6,0.00069700
+cloud-volta,mm,1,1,0.00070653
+surface-maxwell,spmv,spmv_rule,9,0.00074452
+surface-maxwell,spmv,spmv_rule,9,0.00074703
+surface-maxwell,spmv,spmv_rule,9,0.00074731
+surface-maxwell,spmv,spmv_rule,9,0.00074755
+surface-maxwell,spmv,spmv_rule,9,0.00074802
+surface-maxwell,spmv,spmv_rule,9,0.00074809
+surface-maxwell,spmv,spmv_rule,9,0.00074829
+surface-maxwell,spmv,spmv_rule,9,0.00074897
+surface-maxwell,spmv,spmv_rule,9,0.00074999
+surface-maxwell,spmv,spmv_rule,9,0.00075000
+surface-maxwell,spmv,10,7,0.00075118
+surface-maxwell,spmv,10,7,0.00075193
+surface-maxwell,spmv,10,7,0.00075206
+surface-maxwell,spmv,10,7,0.00075316
+surface-maxwell,spmv,10,7,0.00075317
+surface-maxwell,spmv,10,7,0.00075325
+surface-maxwell,spmv,10,7,0.00075352
+surface-maxwell,spmv,10,7,0.00075360
+surface-maxwell,spmv,10,7,0.00075372
+surface-maxwell,spmv,10,7,0.00075461
+surface-maxwell,spmv,4,3,0.00078429
+surface-maxwell,spmv,4,3,0.00078486
+surface-maxwell,spmv,4,3,0.00078509
+surface-maxwell,spmv,4,3,0.00078570
+surface-maxwell,spmv,4,3,0.00078584
+surface-maxwell,spmv,4,3,0.00078587
+surface-maxwell,spmv,4,3,0.00078714
+surface-maxwell,spmv,4,3,0.00078728
+surface-maxwell,spmv,4,3,0.00078829
+surface-maxwell,spmv,4,3,0.00078835
+cloud-volta,mm,surface,7,0.00079330
+cloud-volta,mm,surface,7,0.00079421
+surface-maxwell,spmv,7,6,0.00079592
+surface-maxwell,spmv,7,6,0.00079684
+surface-maxwell,spmv,7,6,0.00079763
+surface-maxwell,spmv,7,6,0.00079797
+surface-maxwell,spmv,7,6,0.00079811
+surface-maxwell,spmv,7,6,0.00079836
+surface-maxwell,spmv,7,6,0.00079847
+surface-maxwell,spmv,7,6,0.00079910
+surface-maxwell,spmv,7,6,0.00079943
+surface-maxwell,spmv,7,6,0.00080054
+ray-pascal,mm,mm_rule,5,0.00084462
+ray-pascal,mm,mm_rule,5,0.00084505
+ray-pascal,mm,mm_rule,5,0.00084557
+ray-pascal,mm,mm_rule,5,0.00084632
+ray-pascal,mm,mm_rule,5,0.00084645
+ray-pascal,mm,mm_rule,5,0.00085106
+surface-maxwell,spmv,1,1,0.00087165
+surface-maxwell,spmv,1,1,0.00087177
+surface-maxwell,spmv,2,2,0.00087221
+surface-maxwell,spmv,2,2,0.00087225
+surface-maxwell,spmv,5,4,0.00087227
+surface-maxwell,spmv,5,4,0.00087227
+surface-maxwell,spmv,5,4,0.00087230
+surface-maxwell,spmv,2,2,0.00087239
+surface-maxwell,spmv,5,4,0.00087240
+surface-maxwell,spmv,2,2,0.00087241
+surface-maxwell,spmv,5,4,0.00087248
+surface-maxwell,spmv,2,2,0.00087250
+surface-maxwell,spmv,5,4,0.00087256
+surface-maxwell,spmv,1,1,0.00087276
+surface-maxwell,spmv,5,4,0.00087276
+surface-maxwell,spmv,2,2,0.00087283
+surface-maxwell,spmv,5,4,0.00087299
+surface-maxwell,spmv,2,2,0.00087309
+surface-maxwell,spmv,1,1,0.00087320
+surface-maxwell,spmv,2,2,0.00087326
+surface-maxwell,spmv,2,2,0.00087328
+surface-maxwell,spmv,1,1,0.00087332
+surface-maxwell,spmv,5,4,0.00087347
+surface-maxwell,spmv,1,1,0.00087365
+surface-maxwell,spmv,2,2,0.00087368
+surface-maxwell,spmv,5,4,0.00087373
+surface-maxwell,spmv,1,1,0.00087377
+surface-maxwell,spmv,1,1,0.00087444
+surface-maxwell,spmv,11,8,0.00087474
+surface-maxwell,spmv,1,1,0.00087482
+surface-maxwell,spmv,1,1,0.00087487
+surface-maxwell,spmv,spmv,all global,0.00087936
+surface-maxwell,spmv,spmv,all global,0.00087966
+surface-maxwell,spmv,spmv,all global,0.00087979
+surface-maxwell,spmv,spmv,all global,0.00087995
+surface-maxwell,spmv,11,8,0.00088010
+surface-maxwell,spmv,spmv,all global,0.00088037
+surface-maxwell,spmv,spmv,all global,0.00088048
+surface-maxwell,spmv,11,8,0.00088083
+surface-maxwell,spmv,spmv,all global,0.00088087
+surface-maxwell,spmv,spmv,all global,0.00088104
+surface-maxwell,spmv,11,8,0.00088147
+surface-maxwell,spmv,11,8,0.00088156
+surface-maxwell,spmv,11,8,0.00088198
+surface-maxwell,spmv,11,8,0.00088220
+surface-maxwell,spmv,11,8,0.00088221
+surface-maxwell,spmv,11,8,0.00088260
+surface-maxwell,spmv,spmv,all global,0.00088260
+surface-maxwell,spmv,spmv,all global,0.00088300
+surface-maxwell,spmv,11,8,0.00088330
+ray-pascal,mm,mm,all global,0.00088574
+ray-pascal,mm,mm_rule,5,0.00088969
+ray-pascal,mm,mm,all global,0.00089294
+ray-pascal,mm,8,4,0.00089745
+ray-pascal,mm,8,4,0.00089891
+surface-kepler,spmv,11,8,0.00090320
+surface-kepler,spmv,11,8,0.00090344
+surface-kepler,spmv,11,8,0.00090419
+surface-kepler,spmv,11,8,0.00090424
+surface-kepler,spmv,11,8,0.00090571
+surface-kepler,spmv,11,8,0.00090622
+surface-kepler,spmv,11,8,0.00090623
+surface-kepler,spmv,11,8,0.00090723
+surface-kepler,spmv,11,8,0.00090750
+surface-kepler,spmv,11,8,0.00090921
+ray-pascal,mm,mm_shmem,6,0.00092500
+ray-pascal,mm,mm_shmem,6,0.00092700
+ray-pascal,mm,mm_rule,5,0.00093361
+ray-pascal,mm,mm_rule,5,0.00093567
+ray-pascal,mm,mm_rule,5,0.00093656
+ray-pascal,mm,mm_shmem,6,0.00094600
+surface-kepler,spmv,2,2,0.00095079
+surface-kepler,spmv,2,2,0.00095108
+surface-kepler,spmv,2,2,0.00095245
+surface-kepler,spmv,2,2,0.00095496
+surface-kepler,spmv,2,2,0.00095551
+surface-kepler,spmv,2,2,0.00095629
+surface-kepler,spmv,2,2,0.00095635
+surface-kepler,spmv,2,2,0.00095696
+surface-kepler,spmv,1,1,0.00095780
+surface-kepler,spmv,2,2,0.00095806
+surface-kepler,spmv,1,1,0.00095832
+surface-kepler,spmv,1,1,0.00095869
+surface-kepler,spmv,1,1,0.00095869
+surface-kepler,spmv,1,1,0.00095881
+surface-kepler,spmv,2,2,0.00095904
+surface-kepler,spmv,1,1,0.00095937
+surface-kepler,spmv,1,1,0.00096112
+surface-kepler,spmv,5,4,0.00096153
+surface-kepler,spmv,1,1,0.00096154
+surface-kepler,spmv,1,1,0.00096179
+surface-kepler,spmv,spmv,all global,0.00096194
+surface-kepler,spmv,1,1,0.00096266
+surface-kepler,spmv,spmv,all global,0.00096311
+surface-kepler,spmv,5,4,0.00096313
+surface-kepler,spmv,spmv,all global,0.00096322
+surface-kepler,spmv,spmv,all global,0.00096325
+surface-kepler,spmv,5,4,0.00096359
+surface-kepler,spmv,spmv,all global,0.00096371
+surface-kepler,spmv,spmv,all global,0.00096380
+surface-kepler,spmv,5,4,0.00096381
+surface-kepler,spmv,5,4,0.00096406
+surface-kepler,spmv,spmv,all global,0.00096421
+surface-kepler,spmv,spmv,all global,0.00096442
+surface-kepler,spmv,5,4,0.00096495
+surface-kepler,spmv,5,4,0.00096502
+surface-kepler,spmv,5,4,0.00096503
+surface-kepler,spmv,spmv,all global,0.00096562
+surface-kepler,spmv,5,4,0.00096605
+surface-kepler,spmv,spmv,all global,0.00096697
+surface-kepler,spmv,5,4,0.00096976
+ray-pascal,mm,mm,all global,0.00097838
+ray-pascal,mm,mm,all global,0.00097884
+ray-pascal,mm,mm,all global,0.00097900
+ray-pascal,mm,mm,all global,0.00097903
+ray-pascal,mm,mm,all global,0.00097927
+ray-pascal,mm,mm,all global,0.00097978
+ray-pascal,mm,8,4,0.00098698
+ray-pascal,mm,8,4,0.00098745
+ray-pascal,mm,8,4,0.00098774
+ray-pascal,mm,mm,all global,0.00098843
+ray-pascal,mm,8,4,0.00098862
+ray-pascal,mm,8,4,0.00098967
+ray-pascal,mm,8,4,0.00099008
+ray-pascal,mm,8,4,0.00099035
+cloud-volta,mm,mm_naive,unknown,0.00099100
+ray-pascal,mm,mm,all global,0.00099134
+cloud-volta,mm,mm_naive,unknown,0.00099200
+cloud-volta,mm,mm_naive,unknown,0.00099200
+cloud-volta,mm,mm_naive,unknown,0.00099200
+cloud-volta,mm,mm_naive,unknown,0.00099300
+cloud-volta,mm,mm_naive,unknown,0.00099300
+cloud-volta,mm,mm_naive,unknown,0.00099400
+cloud-volta,mm,mm_naive,unknown,0.00099400
+cloud-volta,mm,mm_naive,unknown,0.00099400
+cloud-volta,mm,mm_naive,unknown,0.00099500
+cloud-volta,mm,mm_naive,unknown,0.00099500
+cloud-volta,mm,mm_naive,unknown,0.00099500
+cloud-volta,mm,mm_naive,unknown,0.00099500
+cloud-volta,mm,mm_naive,unknown,0.00099600
+cloud-volta,mm,mm_naive,unknown,0.00099600
+ray-pascal,mm,8,4,0.00099913
+cloud-volta,mm,mm_naive,unknown,0.00100100
+cloud-volta,mm,mm_naive,unknown,0.00100200
+cloud-volta,mm,mm_naive,unknown,0.00100200
+cloud-volta,mm,mm_naive,unknown,0.00100400
+ray-pascal,mm,mm_shmem,6,0.00101700
+ray-pascal,mm,mm_shmem,6,0.00101700
+ray-pascal,mm,mm_shmem,6,0.00101700
+ray-pascal,mm,mm_shmem,6,0.00101800
+ray-pascal,mm,mm_shmem,6,0.00101800
+ray-pascal,mm,mm_shmem,6,0.00102600
+ray-pascal,mm,mm_shmem,6,0.00102800
+cloud-volta,spmv,6,5,0.00109291
+cloud-volta,spmv,6,5,0.00109434
+cloud-volta,spmv,6,5,0.00109604
+cloud-volta,spmv,6,5,0.00109619
+cloud-volta,spmv,6,5,0.00109621
+cloud-volta,spmv,6,5,0.00109815
+cloud-volta,spmv,6,5,0.00109852
+cloud-volta,spmv,6,5,0.00109872
+cloud-volta,spmv,6,5,0.00109932
+cloud-volta,spmv,6,5,0.00110023
+cloud-volta,spmv,6,5,0.00110027
+cloud-volta,spmv,6,5,0.00110054
+cloud-volta,spmv,6,5,0.00110125
+cloud-volta,spmv,6,5,0.00110168
+cloud-volta,spmv,6,5,0.00110343
+cloud-volta,spmv,6,5,0.00110598
+cloud-volta,spmv,6,5,0.00110616
+cloud-volta,spmv,6,5,0.00110698
+cloud-volta,spmv,6,5,0.00110897
+cloud-volta,spmv,6,5,0.00110921
+cloud-volta,mm,mm_naive,unknown,0.00113900
+ray-pascal,spmv,6,5,0.00131983
+ray-pascal,spmv,6,5,0.00132592
+ray-pascal,spmv,6,5,0.00132684
+ray-pascal,spmv,6,5,0.00132759
+ray-pascal,spmv,6,5,0.00132875
+ray-pascal,spmv,6,5,0.00133177
+ray-pascal,spmv,6,5,0.00133182
+ray-pascal,spmv,6,5,0.00133256
+ray-pascal,spmv,6,5,0.00133331
+ray-pascal,spmv,6,5,0.00133356
+ray-pascal,mm,3,2,0.00140545
+ray-pascal,mm,6,3,0.00141825
+ray-pascal,mm,6,3,0.00142092
+ray-pascal,mm,6,3,0.00142111
+ray-pascal,mm,6,3,0.00142268
+ray-pascal,mm,3,2,0.00154268
+ray-pascal,mm,3,2,0.00155794
+ray-pascal,mm,3,2,0.00156085
+ray-pascal,mm,3,2,0.00156307
+ray-pascal,mm,6,3,0.00156321
+ray-pascal,mm,6,3,0.00156359
+ray-pascal,mm,6,3,0.00156369
+ray-pascal,mm,3,2,0.00156385
+ray-pascal,mm,3,2,0.00156436
+ray-pascal,mm,3,2,0.00156473
+ray-pascal,mm,6,3,0.00156520
+ray-pascal,mm,3,2,0.00157710
+ray-pascal,mm,6,3,0.00157939
+ray-pascal,mm,3,2,0.00158029
+ray-pascal,mm,6,3,0.00158100
+ray-pascal,mm,surface,7,0.00192053
+ray-pascal,mm,surface,7,0.00192232
+ray-pascal,mm,surface,7,0.00192359
+ray-pascal,mm,surface,7,0.00192389
+ray-pascal,mm,surface,7,0.00192437
+ray-pascal,mm,surface,7,0.00192438
+ray-pascal,mm,surface,7,0.00192746
+ray-pascal,mm,surface,7,0.00192756
+ray-pascal,mm,1,1,0.00193011
+ray-pascal,mm,1,1,0.00193020
+ray-pascal,mm,1,1,0.00193029
+ray-pascal,mm,1,1,0.00193126
+ray-pascal,mm,1,1,0.00193165
+ray-pascal,mm,1,1,0.00193222
+ray-pascal,mm,1,1,0.00193223
+ray-pascal,mm,1,1,0.00193232
+ray-pascal,mm,1,1,0.00193371
+ray-pascal,mm,surface,7,0.00214055
+ray-pascal,mm,1,1,0.00214585
+ray-pascal,mm,surface,7,0.00215947
+surface-kepler,cfd,cfd_rule,7,0.00234402
+surface-kepler,cfd,cfd_rule,7,0.00234522
+surface-kepler,cfd,cfd_rule,7,0.00234531
+surface-kepler,cfd,cfd_rule,7,0.00234648
+surface-kepler,cfd,cfd_rule,7,0.00234696
+surface-kepler,cfd,cfd_rule,7,0.00234761
+surface-kepler,cfd,cfd_rule,7,0.00234831
+surface-kepler,cfd,4,4,0.00234839
+surface-kepler,cfd,cfd_rule,7,0.00234952
+surface-kepler,cfd,cfd_rule,7,0.00235071
+surface-kepler,cfd,4,4,0.00235082
+surface-kepler,cfd,4,4,0.00235157
+surface-kepler,cfd,cfd_rule,7,0.00235173
+surface-kepler,cfd,4,4,0.00235304
+surface-kepler,cfd,4,4,0.00235375
+surface-kepler,cfd,4,4,0.00235417
+surface-kepler,cfd,4,4,0.00235486
+surface-kepler,cfd,4,4,0.00235505
+surface-kepler,cfd,4,4,0.00235563
+surface-kepler,cfd,4,4,0.00235692
+surface-kepler,cfd,2,2,0.00235897
+surface-kepler,cfd,2,2,0.00235919
+surface-kepler,cfd,2,2,0.00235981
+surface-kepler,cfd,2,2,0.00236180
+surface-kepler,cfd,2,2,0.00236187
+surface-kepler,cfd,2,2,0.00236346
+surface-kepler,cfd,2,2,0.00236377
+surface-kepler,cfd,2,2,0.00236422
+surface-kepler,cfd,2,2,0.00236441
+surface-kepler,cfd,2,2,0.00237012
+surface-kepler,cfd,3,3,0.00242229
+surface-kepler,cfd,3,3,0.00242508
+surface-kepler,cfd,3,3,0.00242795
+surface-kepler,cfd,3,3,0.00242879
+surface-kepler,cfd,3,3,0.00242896
+surface-kepler,cfd,3,3,0.00243053
+surface-kepler,cfd,3,3,0.00243174
+surface-kepler,cfd,3,3,0.00243228
+surface-kepler,cfd,3,3,0.00243403
+surface-kepler,cfd,3,3,0.00243667
+surface-kepler,cfd,6,5,0.00251351
+surface-kepler,cfd,6,5,0.00251539
+surface-kepler,cfd,6,5,0.00251578
+surface-kepler,cfd,6,5,0.00251652
+surface-kepler,cfd,6,5,0.00251723
+surface-kepler,cfd,6,5,0.00251819
+surface-kepler,cfd,6,5,0.00251869
+surface-kepler,cfd,6,5,0.00251919
+surface-kepler,cfd,6,5,0.00251952
+surface-kepler,cfd,6,5,0.00251964
+surface-kepler,cfd,cfd,all global,0.00253254
+surface-kepler,cfd,cfd,all global,0.00253368
+surface-kepler,cfd,cfd,all global,0.00253377
+surface-kepler,cfd,cfd,all global,0.00253418
+surface-kepler,cfd,cfd,all global,0.00253604
+surface-kepler,cfd,cfd,all global,0.00253645
+surface-kepler,cfd,cfd,all global,0.00253700
+surface-kepler,cfd,cfd,all global,0.00253848
+surface-kepler,cfd,cfd,all global,0.00253912
+surface-kepler,cfd,cfd,all global,0.00254171
+surface-kepler,cfd,cfd_new,8,0.00258165
+surface-kepler,cfd,7,6,0.00258345
+surface-kepler,cfd,7,6,0.00258386
+surface-kepler,cfd,cfd_new,8,0.00258411
+surface-kepler,cfd,7,6,0.00258413
+surface-kepler,cfd,7,6,0.00258448
+surface-kepler,cfd,cfd_new,8,0.00258483
+surface-kepler,cfd,7,6,0.00258521
+surface-kepler,cfd,cfd_new,8,0.00258549
+surface-kepler,cfd,cfd_new,8,0.00258550
+surface-kepler,cfd,7,6,0.00258567
+surface-kepler,cfd,cfd_new,8,0.00258571
+surface-kepler,cfd,7,6,0.00258578
+surface-kepler,cfd,7,6,0.00258672
+surface-kepler,cfd,7,6,0.00258702
+surface-kepler,cfd,cfd_new,8,0.00258716
+surface-kepler,cfd,cfd_new,8,0.00258724
+surface-kepler,cfd,cfd_new,8,0.00258740
+surface-kepler,cfd,7,6,0.00258877
+surface-kepler,cfd,cfd_new,8,0.00258961
+surface-kepler,cfd,1,1,0.00267252
+surface-kepler,cfd,1,1,0.00267292
+surface-kepler,cfd,1,1,0.00267387
+surface-kepler,cfd,1,1,0.00267411
+surface-kepler,cfd,1,1,0.00267462
+surface-kepler,cfd,1,1,0.00267484
+surface-kepler,cfd,1,1,0.00267496
+surface-kepler,cfd,1,1,0.00267516
+surface-kepler,cfd,1,1,0.00267535
+surface-kepler,cfd,1,1,0.00267577
+surface-maxwell,cfd,1,1,0.00319904
+surface-maxwell,cfd,1,1,0.00320293
+surface-maxwell,cfd,cfd,all global,0.00321517
+surface-maxwell,cfd,cfd,all global,0.00321803
+surface-maxwell,cfd,cfd,all global,0.00321979
+surface-maxwell,cfd,1,1,0.00322061
+surface-maxwell,cfd,1,1,0.00322147
+surface-maxwell,cfd,1,1,0.00322795
+surface-maxwell,cfd,1,1,0.00322862
+surface-maxwell,cfd,1,1,0.00322867
+surface-maxwell,cfd,cfd,all global,0.00322968
+surface-maxwell,cfd,1,1,0.00323583
+surface-maxwell,cfd,cfd,all global,0.00323606
+surface-maxwell,cfd,1,1,0.00323646
+surface-maxwell,cfd,cfd,all global,0.00323775
+surface-maxwell,cfd,cfd,all global,0.00323934
+surface-maxwell,cfd,1,1,0.00324276
+surface-maxwell,cfd,cfd,all global,0.00324496
+surface-maxwell,cfd,cfd,all global,0.00324855
+surface-maxwell,cfd,cfd,all global,0.00324966
+surface-maxwell,cfd,cfd_new,8,0.00329152
+surface-maxwell,cfd,cfd_rule,7,0.00333835
+surface-maxwell,mm,mm_rule,5,0.00349496
+surface-maxwell,mm,mm_rule,5,0.00349570
+surface-maxwell,mm,mm_rule,5,0.00349599
+surface-maxwell,mm,mm_rule,5,0.00349625
+surface-maxwell,mm,mm_rule,5,0.00349903
+surface-maxwell,cfd,3,3,0.00356566
+surface-maxwell,cfd,4,4,0.00357419
+surface-maxwell,mm,mm,all global,0.00357704
+surface-maxwell,cfd,cfd_new,8,0.00358319
+surface-maxwell,cfd,3,3,0.00359158
+surface-maxwell,cfd,4,4,0.00359633
+surface-maxwell,cfd,2,2,0.00359781
+surface-maxwell,cfd,3,3,0.00359824
+surface-maxwell,cfd,3,3,0.00359988
+surface-maxwell,cfd,3,3,0.00360289
+surface-maxwell,cfd,3,3,0.00360335
+surface-maxwell,cfd,3,3,0.00360605
+surface-maxwell,cfd,3,3,0.00361416
+surface-maxwell,cfd,2,2,0.00361541
+surface-maxwell,cfd,4,4,0.00361595
+surface-maxwell,cfd,2,2,0.00362068
+surface-maxwell,cfd,2,2,0.00362133
+surface-maxwell,cfd,3,3,0.00362226
+surface-maxwell,cfd,3,3,0.00362295
+surface-maxwell,cfd,4,4,0.00362420
+surface-maxwell,cfd,2,2,0.00362548
+surface-maxwell,cfd,4,4,0.00362689
+surface-maxwell,cfd,4,4,0.00362929
+surface-maxwell,cfd,2,2,0.00363089
+surface-maxwell,cfd,2,2,0.00363116
+surface-maxwell,cfd,2,2,0.00363204
+surface-maxwell,cfd,4,4,0.00363300
+surface-maxwell,cfd,2,2,0.00363718
+surface-maxwell,cfd,4,4,0.00363891
+surface-maxwell,cfd,2,2,0.00364719
+surface-maxwell,cfd,4,4,0.00364803
+surface-maxwell,cfd,4,4,0.00365023
+surface-maxwell,cfd,6,5,0.00371978
+surface-maxwell,mm,mm_rule,5,0.00372323
+surface-maxwell,cfd,7,6,0.00373128
+surface-maxwell,cfd,6,5,0.00373729
+surface-maxwell,cfd,7,6,0.00373856
+surface-maxwell,cfd,7,6,0.00374359
+surface-maxwell,cfd,7,6,0.00374472
+surface-maxwell,cfd,6,5,0.00374474
+surface-maxwell,cfd,cfd_new,8,0.00374519
+surface-maxwell,cfd,cfd_new,8,0.00374605
+surface-maxwell,cfd,6,5,0.00374669
+surface-maxwell,cfd,7,6,0.00374926
+surface-maxwell,cfd,6,5,0.00375101
+surface-maxwell,cfd,cfd_new,8,0.00375389
+surface-maxwell,cfd,7,6,0.00375651
+surface-maxwell,cfd,6,5,0.00375945
+surface-maxwell,cfd,7,6,0.00375955
+surface-maxwell,cfd,6,5,0.00376135
+surface-maxwell,cfd,cfd_new,8,0.00376203
+surface-maxwell,cfd,cfd_new,8,0.00376382
+surface-maxwell,cfd,cfd_rule,7,0.00376496
+surface-maxwell,cfd,7,6,0.00376722
+surface-maxwell,cfd,cfd_new,8,0.00376752
+surface-maxwell,cfd,cfd_rule,7,0.00376876
+surface-maxwell,cfd,cfd_rule,7,0.00377072
+surface-maxwell,cfd,6,5,0.00377132
+surface-maxwell,cfd,cfd_new,8,0.00377308
+surface-maxwell,cfd,cfd_new,8,0.00377386
+surface-maxwell,cfd,6,5,0.00377641
+surface-maxwell,cfd,7,6,0.00377922
+surface-maxwell,cfd,6,5,0.00378001
+surface-maxwell,cfd,7,6,0.00378336
+surface-maxwell,cfd,cfd_rule,7,0.00379364
+surface-maxwell,cfd,cfd_rule,7,0.00379433
+surface-maxwell,cfd,cfd_rule,7,0.00379684
+surface-maxwell,cfd,cfd_rule,7,0.00379896
+surface-maxwell,cfd,cfd_rule,7,0.00379946
+surface-maxwell,cfd,cfd_rule,7,0.00380185
+ray-pascal,mm,mm_naive,unknown,0.00382400
+ray-pascal,mm,mm_naive,unknown,0.00383100
+ray-pascal,mm,mm_naive,unknown,0.00383100
+ray-pascal,mm,mm_naive,unknown,0.00383200
+ray-pascal,mm,mm_naive,unknown,0.00383200
+ray-pascal,mm,mm_naive,unknown,0.00383200
+ray-pascal,mm,mm_naive,unknown,0.00383400
+ray-pascal,mm,mm_naive,unknown,0.00383800
+ray-pascal,mm,mm_naive,unknown,0.00383800
+ray-pascal,mm,mm_naive,unknown,0.00384400
+surface-maxwell,mm,3,2,0.00388658
+surface-maxwell,mm,8,4,0.00389602
+surface-maxwell,mm,mm_rule,5,0.00406308
+surface-maxwell,mm,mm_rule,5,0.00406531
+surface-maxwell,mm,mm,all global,0.00422680
+surface-kepler,spmv,6,5,0.00441413
+surface-kepler,spmv,6,5,0.00441942
+surface-kepler,spmv,6,5,0.00441968
+surface-kepler,spmv,6,5,0.00442063
+surface-kepler,spmv,6,5,0.00442373
+surface-kepler,spmv,6,5,0.00442374
+surface-kepler,spmv,6,5,0.00442378
+surface-kepler,spmv,6,5,0.00442679
+surface-kepler,spmv,6,5,0.00442792
+surface-kepler,spmv,6,5,0.00444101
+surface-maxwell,mm,surface,7,0.00454190
+surface-maxwell,mm,1,1,0.00457018
+surface-maxwell,mm,6,3,0.00458333
+surface-maxwell,mm,surface,7,0.00458439
+surface-maxwell,mm,surface,7,0.00459661
+surface-maxwell,mm,1,1,0.00459694
+surface-maxwell,mm,1,1,0.00459998
+surface-maxwell,mm,surface,7,0.00460362
+surface-maxwell,mm,surface,7,0.00461347
+surface-maxwell,mm,1,1,0.00461528
+surface-maxwell,mm,1,1,0.00461741
+surface-maxwell,mm,1,1,0.00461898
+surface-maxwell,mm,1,1,0.00462364
+surface-maxwell,mm,1,1,0.00462776
+surface-maxwell,mm,1,1,0.00462823
+surface-maxwell,mm,surface,7,0.00463239
+surface-maxwell,mm,surface,7,0.00463276
+surface-maxwell,mm,surface,7,0.00464537
+surface-maxwell,mm,mm,all global,0.00470333
+surface-maxwell,mm,mm_shmem,6,0.00470700
+surface-maxwell,mm,mm_shmem,6,0.00471000
+surface-maxwell,mm,surface,7,0.00495980
+surface-maxwell,mm,6,3,0.00509530
+surface-maxwell,mm,mm_rule,5,0.00511111
+surface-maxwell,mm,mm_rule,5,0.00511152
+surface-maxwell,mm,1,1,0.00543620
+surface-kepler,mm,mm_rule,5,0.00544349
+surface-kepler,mm,mm_rule,5,0.00544415
+surface-kepler,mm,mm_rule,5,0.00544473
+surface-kepler,mm,mm_rule,5,0.00544493
+surface-kepler,mm,mm_rule,5,0.00544581
+surface-kepler,mm,mm_rule,5,0.00544618
+surface-kepler,mm,mm_rule,5,0.00544738
+surface-kepler,mm,mm_rule,5,0.00544817
+surface-kepler,mm,mm_rule,5,0.00544892
+surface-kepler,mm,mm_rule,5,0.00544968
+surface-maxwell,mm,mm_shmem,6,0.00591700
+surface-kepler,mm,1,1,0.00597980
+surface-kepler,mm,1,1,0.00597991
+surface-kepler,mm,1,1,0.00598047
+surface-kepler,mm,1,1,0.00598059
+surface-kepler,mm,1,1,0.00598073
+surface-kepler,mm,1,1,0.00598100
+surface-kepler,mm,1,1,0.00598148
+surface-kepler,mm,1,1,0.00598285
+surface-kepler,mm,1,1,0.00598296
+surface-kepler,mm,1,1,0.00598385
+surface-kepler,mm,8,4,0.00632877
+surface-kepler,mm,8,4,0.00632911
+surface-kepler,mm,8,4,0.00632934
+surface-kepler,mm,8,4,0.00633019
+surface-kepler,mm,8,4,0.00633088
+surface-kepler,mm,8,4,0.00633107
+surface-kepler,mm,8,4,0.00633109
+surface-kepler,mm,8,4,0.00633111
+surface-kepler,mm,8,4,0.00633350
+surface-kepler,mm,8,4,0.00633601
+surface-kepler,mm,6,3,0.00643514
+surface-kepler,mm,6,3,0.00643523
+surface-kepler,mm,6,3,0.00643555
+surface-kepler,mm,6,3,0.00643697
+surface-kepler,mm,6,3,0.00643701
+surface-kepler,mm,6,3,0.00643764
+surface-kepler,mm,6,3,0.00643782
+surface-kepler,mm,6,3,0.00643914
+surface-kepler,mm,6,3,0.00644043
+surface-kepler,mm,6,3,0.00644050
+surface-maxwell,mm,mm,all global,0.00650568
+surface-maxwell,mm,8,4,0.00653705
+surface-kepler,mm,3,2,0.00657702
+surface-kepler,mm,3,2,0.00658365
+surface-kepler,mm,3,2,0.00658420
+surface-kepler,mm,3,2,0.00658458
+surface-kepler,mm,3,2,0.00658479
+surface-kepler,mm,3,2,0.00658496
+surface-kepler,mm,3,2,0.00658676
+surface-kepler,mm,3,2,0.00658702
+surface-kepler,mm,3,2,0.00658782
+surface-kepler,mm,3,2,0.00659075
+surface-maxwell,mm,mm,all global,0.00672176
+surface-maxwell,mm,8,4,0.00693410
+surface-maxwell,mm,6,3,0.00694489
+surface-maxwell,mm,6,3,0.00694520
+surface-maxwell,mm,mm_shmem,6,0.00718100
+surface-maxwell,mm,mm,all global,0.00719258
+surface-maxwell,mm,mm_shmem,6,0.00719500
+surface-maxwell,mm,8,4,0.00719692
+surface-maxwell,mm,mm,all global,0.00719769
+surface-maxwell,mm,mm,all global,0.00719871
+surface-maxwell,mm,mm,all global,0.00719969
+surface-maxwell,mm,mm,all global,0.00720243
+surface-maxwell,mm,8,4,0.00720374
+surface-maxwell,mm,mm_shmem,6,0.00720400
+surface-maxwell,mm,mm_shmem,6,0.00720400
+surface-maxwell,mm,mm_shmem,6,0.00720400
+surface-maxwell,mm,mm_shmem,6,0.00720500
+surface-maxwell,mm,8,4,0.00720630
+surface-maxwell,mm,8,4,0.00720691
+surface-maxwell,mm,mm_shmem,6,0.00720800
+surface-maxwell,mm,8,4,0.00720813
+surface-maxwell,mm,8,4,0.00721037
+surface-maxwell,mm,8,4,0.00721106
+surface-maxwell,mm,3,2,0.00744716
+surface-kepler,mm,mm,all global,0.00749709
+surface-kepler,mm,mm,all global,0.00749796
+surface-kepler,mm,mm,all global,0.00750072
+surface-kepler,mm,mm,all global,0.00750076
+surface-kepler,mm,mm,all global,0.00750082
+surface-kepler,mm,mm,all global,0.00750115
+surface-kepler,mm,mm,all global,0.00750121
+surface-kepler,mm,mm,all global,0.00750251
+surface-kepler,mm,mm,all global,0.00750381
+surface-kepler,mm,mm,all global,0.00750441
+surface-kepler,mm,mm_shmem,6,0.00752800
+surface-kepler,mm,mm_shmem,6,0.00753100
+surface-kepler,mm,mm_shmem,6,0.00753100
+surface-kepler,mm,mm_shmem,6,0.00753100
+surface-kepler,mm,mm_shmem,6,0.00753200
+surface-kepler,mm,mm_shmem,6,0.00753400
+surface-kepler,mm,mm_shmem,6,0.00753500
+surface-kepler,mm,mm_shmem,6,0.00753500
+surface-kepler,mm,mm_shmem,6,0.00753700
+surface-kepler,mm,mm_shmem,6,0.00753900
+surface-maxwell,mm,3,2,0.00767174
+surface-maxwell,mm,3,2,0.00767233
+surface-kepler,mm,surface,7,0.00769482
+surface-kepler,mm,surface,7,0.00769822
+surface-kepler,mm,surface,7,0.00769927
+surface-kepler,mm,surface,7,0.00769977
+surface-kepler,mm,surface,7,0.00770017
+surface-kepler,mm,surface,7,0.00770134
+surface-kepler,mm,surface,7,0.00770277
+surface-kepler,mm,surface,7,0.00770285
+surface-kepler,mm,surface,7,0.00770346
+surface-kepler,mm,surface,7,0.00770358
+surface-maxwell,mm,3,2,0.00774123
+surface-maxwell,mm,3,2,0.00784143
+surface-maxwell,mm,3,2,0.00784219
+surface-maxwell,mm,3,2,0.00784229
+surface-maxwell,mm,3,2,0.00784396
+surface-maxwell,mm,3,2,0.00784802
+surface-maxwell,mm,6,3,0.00785954
+surface-maxwell,mm,6,3,0.00786152
+surface-maxwell,mm,6,3,0.00786225
+surface-maxwell,mm,6,3,0.00786309
+surface-maxwell,mm,6,3,0.00787165
+surface-maxwell,mm,6,3,0.00787197
+surface-maxwell,mm,mm_naive,unknown,0.00928700
+surface-maxwell,mm,mm_naive,unknown,0.00928700
+surface-maxwell,mm,mm_naive,unknown,0.00928700
+surface-maxwell,mm,mm_naive,unknown,0.00928700
+surface-maxwell,mm,mm_naive,unknown,0.00928900
+surface-maxwell,mm,mm_naive,unknown,0.00928900
+surface-maxwell,mm,mm_naive,unknown,0.00929000
+surface-maxwell,mm,mm_naive,unknown,0.00929100
+surface-maxwell,mm,mm_naive,unknown,0.00929200
+surface-maxwell,mm,mm_naive,unknown,0.00929300
+surface-maxwell,mm,surface,7,0.00946006
+surface-maxwell,spmv,6,5,0.01159980
+surface-maxwell,spmv,6,5,0.01191000
+surface-maxwell,spmv,6,5,0.01198850
+surface-maxwell,spmv,6,5,0.01207160
+surface-maxwell,spmv,6,5,0.01235770
+surface-maxwell,spmv,6,5,0.01239970
+surface-maxwell,spmv,6,5,0.01240270
+surface-maxwell,spmv,6,5,0.01240790
+surface-maxwell,spmv,6,5,0.01240920
+surface-maxwell,spmv,6,5,0.01244840
+surface-kepler,mm,mm_naive,unknown,0.02153600
+surface-kepler,mm,mm_naive,unknown,0.02154300
+surface-kepler,mm,mm_naive,unknown,0.02154400
+surface-kepler,mm,mm_naive,unknown,0.02154500
+surface-kepler,mm,mm_naive,unknown,0.02154600
+surface-kepler,mm,mm_naive,unknown,0.02155000
+surface-kepler,mm,mm_naive,unknown,0.02155600
+surface-kepler,mm,mm_naive,unknown,0.02155800
+surface-kepler,mm,mm_naive,unknown,0.02156400
+surface-kepler,mm,mm_naive,unknown,0.02158900

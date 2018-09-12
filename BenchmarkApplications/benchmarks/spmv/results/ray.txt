@@ -1,0 +1,14 @@
+code	exe time	diff over original	Placement policy	
+----------------------------------------------------------------
+10.cu	0.00192701	-0.51%	vec[], cols[], val[] texture	
+11.cu	0.0077417	299.70%	cols[] texture	
+1.cu	0.00173117	-10.62%	rowDeli[] in shared memory	
+2.cu	0.00175139	-9.58%	rowDeli[] in constant 	
+4.cu	0.00169235	-12.62%	vec[] tecture, rowD[] shared	
+5.cu	0.00173782	-10.28%	val[] in texture	
+6.cu	0.0131201	577.39%	vec[] in constant, rowDeli[] in texture	
+7.cu	0.00185005	-4.48%	vec[]-texture	
+8.cu	0.00170144	-12.15%	vec[] in texture, rowDeli[] in shared	
+9.cu	0.00171773	-11.31%	val[], col[] in texture, rowDeli[] in constant	
+spmv_rule.cu	0.00172678	-10.85%	all in texture	
+spmv.cu	0.00193686	0.00%	Original: all global memory	

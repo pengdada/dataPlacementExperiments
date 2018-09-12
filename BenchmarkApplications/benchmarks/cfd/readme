@@ -1,0 +1,13 @@
+--------------------------------
+code	Placement policy	
+---------------------------------
+1.cu		neighbour[] texture 1D	
+2.cu		mx[], mz[], energy[] texture 1D, restrict neighbours, normals, mx, mz
+3.cu		mx[], my[], mz[] texture 1D, restrict mz	
+4.cu		energy[], my[], mz[] texture 1D, restrict mx, mz	 	
+6.cu		mx[], my[], mz[], energy[], neighbour[], normals[],  texture 1D, restrict density	
+7.cu	  	energy[], neighbours[], normals[] texture 1D, restrict mz	
+6_overhead.cu 	uses texture memory of particular arrays depending on "flags" passed in
+cfd_rule.cu	mx[], my[], mz[], energy[], normals[], density[]  texture 1D, restrict density	
+cfd_new.cu 	my[], mz[], energy[], normals[], neighbours[], density[]  texture 1D
+cfd.cu		all global memory, restrict mz	
