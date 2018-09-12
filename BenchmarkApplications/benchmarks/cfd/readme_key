@@ -1,9 +1,0 @@
-1 1.cu		neighbour[] texture 1D	
-2 2.cu		mx[], mz[], energy[] texture 1D, restrict neighbours, normals, mx, mz
-3 3.cu		mx[], my[], mz[] texture 1D, restrict mz	
-4 4.cu		energy[], my[], mz[] texture 1D, restrict mx, mz	 	
-5 6.cu		mx[], my[], mz[], energy[], neighbour[], normals[],  texture 1D, restrict density	
-6 7.cu	  	energy[], neighbours[], normals[] texture 1D, restrict mz	
-7 cfd_rule.cu	mx[], my[], mz[], energy[], normals[], density[]  texture 1D, restrict density	
-8 cfd_new.cu 	my[], mz[], energy[], normals[], neighbours[], density[]  texture 1D
-cfd.cu		all global memory, restrict mz	

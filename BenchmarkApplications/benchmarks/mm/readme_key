@@ -1,9 +1,0 @@
-1 1.cu		a[] texture2D, b[] texture 2D 
-2 3.cu		a[] texture 2D
-3 6.cu		a[] restrict, b[] texture 2D 
-4 8.cu		b[] texture 1D
-5 mm_rule.cu      a[] texture 1D, b[] texture 1D 
-6 mm-shmem.cu 	a[], b[] shared memory and struct
-7 surface.cu  	a[] surface texture memory	
-8 mm.cu  		global memory, no struct
-9 mm-naive.cu  	naive version: global memory and struct
