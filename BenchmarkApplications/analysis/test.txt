@@ -1,20 +1,199 @@
-volta cfd 1 1 0.00190472
-volta cfd cfd_rule 7 0.00212703
-volta cfd 2 2 0.00226411
-volta cfd 4 4 0.00226457
-volta cfd 3 3 0.00226519
-volta cfd 6 5 0.00235805
-volta cfd 7 6 0.00239614
-volta cfd cfd_new 8 0.00239616
-volta cfd cfd all global 0.00190381
-volta mm 8 4 0.00015659
-volta mm mm_shmem 6 0.00060850
-volta mm mm_rule 5 0.00065127
-volta mm 3 2 0.00068666
-volta mm 6 3 0.00068787
-volta mm surface 7 0.00075219
-volta mm 1 1 0.00078339
-volta mm mm_naive unknown 0.00107640
-volta mm mm all global 0.00060637
-volta spmv spmv_rule 9 0.00030811
-volta spmv spmv all global 0.00023510
+volta,cfd,1,1,0.00190249
+volta,cfd,1,1,0.00190321
+volta,cfd,1,1,0.00190382
+volta,cfd,1,1,0.00190413
+volta,cfd,1,1,0.00190484
+volta,cfd,1,1,0.00190495
+volta,cfd,1,1,0.00190505
+volta,cfd,1,1,0.00190587
+volta,cfd,1,1,0.00190628
+volta,cfd,1,1,0.00190659
+volta,cfd,2,2,0.00226109
+volta,cfd,2,2,0.00226191
+volta,cfd,2,2,0.00226202
+volta,cfd,2,2,0.00226314
+volta,cfd,2,2,0.00226447
+volta,cfd,2,2,0.00226468
+volta,cfd,2,2,0.00226540
+volta,cfd,2,2,0.00226550
+volta,cfd,2,2,0.00226591
+volta,cfd,2,2,0.00226693
+volta,cfd,3,3,0.00226089
+volta,cfd,3,3,0.00226181
+volta,cfd,3,3,0.00226202
+volta,cfd,3,3,0.00226478
+volta,cfd,3,3,0.00226509
+volta,cfd,3,3,0.00226601
+volta,cfd,3,3,0.00226601
+volta,cfd,3,3,0.00226683
+volta,cfd,3,3,0.00226898
+volta,cfd,3,3,0.00226949
+volta,cfd,4,4,0.00225966
+volta,cfd,4,4,0.00226191
+volta,cfd,4,4,0.00226406
+volta,cfd,4,4,0.00226458
+volta,cfd,4,4,0.00226468
+volta,cfd,4,4,0.00226540
+volta,cfd,4,4,0.00226591
+volta,cfd,4,4,0.00226611
+volta,cfd,4,4,0.00226662
+volta,cfd,4,4,0.00226673
+volta,cfd,6,5,0.00235428
+volta,cfd,6,5,0.00235469
+volta,cfd,6,5,0.00235612
+volta,cfd,6,5,0.00235704
+volta,cfd,6,5,0.00235715
+volta,cfd,6,5,0.00235796
+volta,cfd,6,5,0.00235940
+volta,cfd,6,5,0.00235940
+volta,cfd,6,5,0.00236012
+volta,cfd,6,5,0.00236431
+volta,cfd,7,6,0.00239329
+volta,cfd,7,6,0.00239370
+volta,cfd,7,6,0.00239411
+volta,cfd,7,6,0.00239432
+volta,cfd,7,6,0.00239555
+volta,cfd,7,6,0.00239555
+volta,cfd,7,6,0.00239718
+volta,cfd,7,6,0.00239831
+volta,cfd,7,6,0.00239964
+volta,cfd,7,6,0.00239974
+volta,cfd,cfd,all global,0.00189850
+volta,cfd,cfd,all global,0.00190269
+volta,cfd,cfd,all global,0.00190310
+volta,cfd,cfd,all global,0.00190372
+volta,cfd,cfd,all global,0.00190392
+volta,cfd,cfd,all global,0.00190403
+volta,cfd,cfd,all global,0.00190454
+volta,cfd,cfd,all global,0.00190577
+volta,cfd,cfd,all global,0.00190587
+volta,cfd,cfd,all global,0.00190597
+volta,cfd,cfd_new,8,0.00239206
+volta,cfd,cfd_new,8,0.00239391
+volta,cfd,cfd_new,8,0.00239401
+volta,cfd,cfd_new,8,0.00239411
+volta,cfd,cfd_new,8,0.00239534
+volta,cfd,cfd_new,8,0.00239544
+volta,cfd,cfd_new,8,0.00239698
+volta,cfd,cfd_new,8,0.00239882
+volta,cfd,cfd_new,8,0.00239954
+volta,cfd,cfd_new,8,0.00240138
+volta,cfd,cfd_rule,7,0.00211907
+volta,cfd,cfd_rule,7,0.00212111
+volta,cfd,cfd_rule,7,0.00212265
+volta,cfd,cfd_rule,7,0.00212398
+volta,cfd,cfd_rule,7,0.00212429
+volta,cfd,cfd_rule,7,0.00212777
+volta,cfd,cfd_rule,7,0.00212828
+volta,cfd,cfd_rule,7,0.00212941
+volta,cfd,cfd_rule,7,0.00213268
+volta,cfd,cfd_rule,7,0.00214108
+volta,mm,1,1,0.00077834
+volta,mm,1,1,0.00078060
+volta,mm,1,1,0.00078090
+volta,mm,1,1,0.00078152
+volta,mm,1,1,0.00078346
+volta,mm,1,1,0.00078531
+volta,mm,1,1,0.00078541
+volta,mm,1,1,0.00078561
+volta,mm,1,1,0.00078623
+volta,mm,1,1,0.00078653
+volta,mm,3,2,0.00068567
+volta,mm,3,2,0.00068577
+volta,mm,3,2,0.00068608
+volta,mm,3,2,0.00068618
+volta,mm,3,2,0.00068680
+volta,mm,3,2,0.00068700
+volta,mm,3,2,0.00068710
+volta,mm,3,2,0.00068710
+volta,mm,3,2,0.00068741
+volta,mm,3,2,0.00068751
+volta,mm,6,3,0.00068587
+volta,mm,6,3,0.00068710
+volta,mm,6,3,0.00068731
+volta,mm,6,3,0.00068741
+volta,mm,6,3,0.00068741
+volta,mm,6,3,0.00068751
+volta,mm,6,3,0.00068803
+volta,mm,6,3,0.00068823
+volta,mm,6,3,0.00068936
+volta,mm,6,3,0.00069048
+volta,mm,8,4,0.00015380
+volta,mm,8,4,0.00015432
+volta,mm,8,4,0.00015524
+volta,mm,8,4,0.00015616
+volta,mm,8,4,0.00015616
+volta,mm,8,4,0.00015626
+volta,mm,8,4,0.00015770
+volta,mm,8,4,0.00015800
+volta,mm,8,4,0.00015800
+volta,mm,8,4,0.00016026
+volta,mm,mm,all global,0.00059884
+volta,mm,mm,all global,0.00059976
+volta,mm,mm,all global,0.00060068
+volta,mm,mm,all global,0.00060201
+volta,mm,mm,all global,0.00060365
+volta,mm,mm,all global,0.00060662
+volta,mm,mm,all global,0.00060764
+volta,mm,mm,all global,0.00061071
+volta,mm,mm,all global,0.00061553
+volta,mm,mm,all global,0.00061829
+volta,mm,mm_naive,unknown,0.00107500
+volta,mm,mm_naive,unknown,0.00107600
+volta,mm,mm_naive,unknown,0.00107600
+volta,mm,mm_naive,unknown,0.00107600
+volta,mm,mm_naive,unknown,0.00107600
+volta,mm,mm_naive,unknown,0.00107600
+volta,mm,mm_naive,unknown,0.00107600
+volta,mm,mm_naive,unknown,0.00107600
+volta,mm,mm_naive,unknown,0.00107700
+volta,mm,mm_naive,unknown,0.00108000
+volta,mm,mm_rule,5,0.00064512
+volta,mm,mm_rule,5,0.00064655
+volta,mm,mm_rule,5,0.00064686
+volta,mm,mm_rule,5,0.00064963
+volta,mm,mm_rule,5,0.00065188
+volta,mm,mm_rule,5,0.00065270
+volta,mm,mm_rule,5,0.00065301
+volta,mm,mm_rule,5,0.00065495
+volta,mm,mm_rule,5,0.00065536
+volta,mm,mm_rule,5,0.00065669
+volta,mm,mm_shmem,6,0.00060400
+volta,mm,mm_shmem,6,0.00060500
+volta,mm,mm_shmem,6,0.00060600
+volta,mm,mm_shmem,6,0.00060700
+volta,mm,mm_shmem,6,0.00060700
+volta,mm,mm_shmem,6,0.00060900
+volta,mm,mm_shmem,6,0.00061100
+volta,mm,mm_shmem,6,0.00061100
+volta,mm,mm_shmem,6,0.00061100
+volta,mm,mm_shmem,6,0.00061400
+volta,mm,surface,7,0.00075008
+volta,mm,surface,7,0.00075049
+volta,mm,surface,7,0.00075069
+volta,mm,surface,7,0.00075090
+volta,mm,surface,7,0.00075100
+volta,mm,surface,7,0.00075110
+volta,mm,surface,7,0.00075233
+volta,mm,surface,7,0.00075407
+volta,mm,surface,7,0.00075520
+volta,mm,surface,7,0.00075602
+volta,spmv,spmv,all global,0.00023357
+volta,spmv,spmv,all global,0.00023429
+volta,spmv,spmv,all global,0.00023491
+volta,spmv,spmv,all global,0.00023511
+volta,spmv,spmv,all global,0.00023542
+volta,spmv,spmv,all global,0.00023552
+volta,spmv,spmv,all global,0.00023552
+volta,spmv,spmv,all global,0.00023572
+volta,spmv,spmv,all global,0.00023583
+volta,spmv,spmv_rule,9,0.00030618
+volta,spmv,spmv_rule,9,0.00030720
+volta,spmv,spmv_rule,9,0.00030720
+volta,spmv,spmv_rule,9,0.00030812
+volta,spmv,spmv_rule,9,0.00030822
+volta,spmv,spmv_rule,9,0.00030822
+volta,spmv,spmv_rule,9,0.00030863
+volta,spmv,spmv_rule,9,0.00030874
+volta,spmv,spmv_rule,9,0.00030915
+volta,spmv,spmv_rule,9,0.00030945

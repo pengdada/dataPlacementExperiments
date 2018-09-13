@@ -1,15 +1,19 @@
-The following will report on the values for one platform. To run on multiple platforms, consolidate the data directories.
+The following will report on the values for one platform. To run on multiple platforms, repeat step 1 and consolidate the data directories.
 
 Step 1 - run benchmarks  
 cd scripts
 ./collectNvprofData.sh <DIRECTORY_TO_PUT_DATA_IN> 
--- ie. ./collectNvprofData.sh ../data_run
+-- ie. ./collectNvprofData.sh ../testdata
+
+--
 
 Step 2 - consolidate benchmark data 
 cd scripts 
-./getPerformanceTimesAveraged.sh <DIRECTORY_DATA_PUT_IN_1> > <DATA_FILE_TO_PRINT_TO> or whatever text file, but the R plotting script needs to be updtaed as this is currently hardcoded)
--- ie. ./getPerformanceTimesAveraged.sh ../data_run > ../analysis/output.txt 
+./getPerformanceTimes.sh <DIRECTORY_DATA_PUT_IN_1> > <DATA_FILE_TO_PRINT_TO> or whatever text file, but the R plotting script needs to be updtaed as this is currently hardcoded)
+-- ie. ./getPerformanceTimes.sh ../testdata > ../analysis/output.txt 
+NOTE: due to a bug must also run "sed -i "/Script/d" <DATA_FILE_TO_PRINT_TO> before going to step 3 !!
 
+--
 
 Step 3 - re-create plots 
 cd analysis 
