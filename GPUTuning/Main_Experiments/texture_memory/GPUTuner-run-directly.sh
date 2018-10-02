@@ -6,6 +6,8 @@ else
   GPUTuning_PATH="${GPUTuning_PATH}"
 fi
 
+echo ${GPUTuning_PATH}
+
 # Export necessary parameters to set up the environment for GPUTuner
 export HARMONY_HOME=${GPUTuning_PATH}/GPUTuning/activeharmony-GPUTuner
 export STRATEGY=exhaustive.so

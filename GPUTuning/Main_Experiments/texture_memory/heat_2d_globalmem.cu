@@ -159,7 +159,7 @@ void anim_gpu( DataBlock *d, int ticks) {
   /*printf( "Average Time per frame:  %3.1f ms\n",
       d->totalTime/d->frames  );*/
   /* @Abdullah */
-  printf( "%3.1fn", d->totalTime/d->frames  );
+  printf( "%3.1f\n", d->totalTime/d->frames  );
   
 }
 

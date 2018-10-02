@@ -14,16 +14,16 @@ make install
 
 # run experiments
 # constant memroy
-cd ${GPUTuning_PATH}/GPUTuning/Main_Experiments/constant_memory/
-source GPUTuner-run-directly.sh
+# cd ${GPUTuning_PATH}/GPUTuning/Main_Experiments/constant_memory/
+# source GPUTuner-run-directly.sh
 
 # texture memory
 cd ${GPUTuning_PATH}/GPUTuning/Main_Experiments/texture_memory/
 source GPUTuner-run-directly.sh
 
 # shared memory
-cd ${GPUTuning_PATH}/GPUTuning/Main_Experiments/shared_memory/
-source GPUTuner-run-directly.sh
+# cd ${GPUTuning_PATH}/GPUTuning/Main_Experiments/shared_memory/
+# source GPUTuner-run-directly.sh
 
 
 # exit

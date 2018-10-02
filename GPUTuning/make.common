@@ -1,6 +1,6 @@
 # Base/root path of the project, default assumes that GPUTuning folder is in the home directory 
 
-GPUTuning_PATH=~/
+GPUTuning_PATH=/gpfs/home/mshahneousba/dataPlacementExperiments/
 
 
 # Include CUDA_HOME

@@ -17,7 +17,7 @@ HEADERNVMLAPI = -I$(CUDA_HOME)/include -I$(NVLM_POWER_HOME)/include -I/usr/inclu
 INCLUDEPROG = $(NVLM_POWER_HOME)/src/nvmlpower.cpp
 
 %.out:%.cu $(INCLUDEPROG)
-	nvcc $(GPUTuner_FLAG) $(INCLUDECUDA) -G -DNO_OPENCL -o $@ $+ $(HEADERNVMLAPI)
+	nvcc $(GPUTuner_FLAG) $(INCLUDECUDA) -DNO_OPENCL -o $@ $+ $(HEADERNVMLAPI)
 
 # -DDIM=1024 -DBLOCKSIZE=32
 

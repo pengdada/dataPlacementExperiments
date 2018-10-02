@@ -5,7 +5,7 @@
 //#define DIM 1024 // fit into L2 cache
 //#define DIM 2048
 // #define DIM 4096  // larger than L2 cache
-#define DIM 1024 
+#define DIM 20480 
 //#define DIM 60000  // MAX to fit into global mem with spheres. 65327 if solely occupies the global memory
 #endif
 
