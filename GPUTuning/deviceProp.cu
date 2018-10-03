@@ -1,5 +1,3 @@
-// Liao 11/30/2011
-// based on liao6@tux322:/usr/local/cuda/include/cuda_runtime_api.h
 #include <stdio.h>
 
 // code from mixbench
